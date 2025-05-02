@@ -1,0 +1,1200 @@
+Transaction_ID,User_Name,Age,Country,Product_Category,Purchase_Amount,Payment_Method,Transaction_Date,Transaction_Value_Label
+1178,Oliver Allen,18,UK,Home & Kitchen,975.34,UPI,2023-07-21,High
+865,Olivia White,19,Mexico,Grocery,796.71,PayPal,2024-09-06,High
+102,Emma Walker,42,UK,Sports,539.95,PayPal,2024-04-13,Low
+440,Olivia Thompson,69,Japan,Books,618.45,Cash on Delivery,2023-05-31,Low
+59,Liam Hall,45,Canada,Electronics,409.59,Debit Card,2024-09-01,Low
+1085,Liam Allen,44,Japan,Clothing,819.45,PayPal,2023-07-14,High
+324,Elijah Walker,36,Australia,Grocery,928.3,Net Banking,2023-09-03,High
+974,Oliver Hall,38,UK,Home & Kitchen,16.98,PayPal,2023-10-15,Low
+412,Olivia Thompson,29,Japan,Electronics,854.45,Net Banking,2024-06-29,High
+1195,Liam Lewis,31,UK,Home & Kitchen,865.88,Cash on Delivery,2023-09-11,High
+1014,Sophia Clark,54,Germany,Electronics,768.12,Debit Card,2023-10-20,High
+45,Elijah Lewis,22,Brazil,Clothing,929.36,Net Banking,2024-07-07,High
+50,Ava Clark,34,Germany,Sports,979.96,PayPal,2023-07-02,High
+849,Ava Lewis,51,Japan,Clothing,153.79,UPI,2024-04-29,Low
+241,Oliver Harris,66,India,Electronics,252.73,UPI,2025-02-13,Low
+171,Isabella Rodriguez,43,Mexico,Books,836.15,Debit Card,2023-03-20,High
+524,Elijah Rodriguez,50,Australia,Home & Kitchen,114.84,Net Banking,2024-03-22,Low
+765,Isabella Lewis,44,Japan,Electronics,100.48,Credit Card,2023-04-17,Low
+824,Sophia Hall,33,Canada,Beauty,939.28,PayPal,2024-10-20,High
+424,Sophia Lewis,19,UK,Home & Kitchen,45.86,Cash on Delivery,2024-11-07,Low
+381,James Lewis,46,USA,Electronics,573.12,Debit Card,2023-09-24,Low
+610,Emma Thompson,66,Australia,Toys,622.48,UPI,2024-10-30,Low
+677,Emma Clark,68,Germany,Beauty,829.54,Credit Card,2024-03-02,High
+345,Oliver Lewis,28,Mexico,Clothing,372.29,UPI,2023-11-19,Low
+110,Elijah Clark,59,India,Books,861.59,UPI,2024-02-16,High
+278,James Rodriguez,48,Germany,Home & Kitchen,558.69,Net Banking,2023-05-29,Low
+678,Ava Thompson,23,Canada,Home & Kitchen,733.82,Net Banking,2025-01-11,High
+571,Elijah Lewis,35,Australia,Sports,451.73,Cash on Delivery,2024-10-02,Low
+359,Liam Walker,68,Brazil,Toys,940.66,PayPal,2024-02-28,High
+599,Ava Anderson,27,UK,Electronics,274.42,UPI,2023-03-14,Low
+391,Olivia Harris,24,France,Home & Kitchen,142.21,Cash on Delivery,2023-09-11,Low
+893,Olivia White,59,Germany,Clothing,155.69,Net Banking,2023-10-26,Low
+693,Sophia Hall,47,USA,Clothing,968.91,Net Banking,2023-05-23,High
+728,Elijah Lewis,20,USA,Grocery,868.86,Credit Card,2024-06-10,High
+363,Elijah Anderson,55,Germany,Beauty,524.06,PayPal,2024-06-04,Low
+597,Liam Clark,41,India,Grocery,205.95,Debit Card,2024-02-25,Low
+428,Sophia White,19,France,Books,96.49,Credit Card,2023-11-13,Low
+71,Oliver Thompson,30,Australia,Home & Kitchen,376.04,UPI,2024-10-17,Low
+322,Emma Anderson,54,USA,Home & Kitchen,163.44,Cash on Delivery,2023-04-21,Low
+653,Noah White,32,Japan,Books,351.56,Credit Card,2023-12-08,Low
+1120,Sophia Lewis,69,USA,Sports,327.05,Net Banking,2024-08-03,Low
+108,Oliver Harris,31,France,Sports,367.18,Credit Card,2023-10-02,Low
+1132,James Clark,28,India,Books,995.26,PayPal,2023-11-07,High
+356,Sophia Thompson,22,Germany,Home & Kitchen,360.3,PayPal,2023-10-18,Low
+877,Olivia Rodriguez,32,France,Sports,347.09,Net Banking,2024-10-04,Low
+343,Sophia Clark,46,UK,Toys,805.45,UPI,2023-09-27,High
+355,Ava Anderson,56,India,Books,815.02,Net Banking,2023-03-21,High
+24,Noah White,28,Germany,Electronics,774.7,Cash on Delivery,2024-07-28,High
+44,Noah Walker,68,UK,Books,492.68,Debit Card,2023-05-13,Low
+244,Olivia White,59,UK,Books,283.13,Net Banking,2024-04-08,Low
+738,Ava Walker,40,Japan,Home & Kitchen,188.41,UPI,2024-10-21,Low
+1135,Oliver Thompson,59,France,Books,723.27,Credit Card,2023-08-03,High
+368,Emma Clark,27,Germany,Grocery,550.15,Credit Card,2024-11-04,Low
+164,Olivia Rodriguez,52,Germany,Clothing,580.98,Cash on Delivery,2024-11-11,Low
+870,Ava Allen,70,France,Toys,907.66,PayPal,2024-02-25,High
+333,Olivia Lewis,59,France,Toys,634.87,UPI,2024-12-31,Low
+1004,Elijah Clark,48,India,Grocery,477.78,UPI,2023-09-09,Low
+975,Elijah Anderson,59,India,Toys,801.23,UPI,2024-02-19,High
+945,James Thompson,45,UK,Electronics,561.88,Cash on Delivery,2023-09-27,Low
+378,Liam Allen,23,Germany,Sports,302.42,Credit Card,2024-01-23,Low
+310,Elijah Lewis,58,Mexico,Clothing,640.27,Cash on Delivery,2024-07-21,Low
+156,Elijah Harris,43,India,Toys,701.4,Debit Card,2023-09-08,High
+211,Elijah Anderson,63,Brazil,Grocery,75.34,Credit Card,2023-08-18,Low
+87,Oliver Hall,64,Germany,Home & Kitchen,12.22,PayPal,2023-09-18,Low
+169,Ava Anderson,62,Australia,Books,856.8,Net Banking,2024-08-18,High
+763,Sophia Harris,45,Mexico,Toys,241.52,Net Banking,2024-05-19,Low
+52,Emma Walker,63,UK,Home & Kitchen,986.15,Net Banking,2023-03-16,High
+439,Elijah Anderson,51,UK,Beauty,770.85,PayPal,2023-05-28,High
+550,Oliver Thompson,70,Canada,Toys,230.74,PayPal,2023-08-09,Low
+491,Oliver Allen,57,India,Grocery,786.14,Net Banking,2024-06-18,High
+426,Noah Allen,58,Japan,Home & Kitchen,19.9,UPI,2023-09-15,Low
+136,Emma Clark,55,Australia,Clothing,677.68,PayPal,2023-09-18,Low
+1191,James Allen,34,Germany,Beauty,256.41,Net Banking,2024-03-12,Low
+55,Isabella Anderson,59,Australia,Beauty,737.31,UPI,2024-12-19,High
+79,Isabella Rodriguez,58,Brazil,Books,669.44,Credit Card,2024-01-26,Low
+431,Noah Walker,64,Mexico,Grocery,446.95,UPI,2024-02-20,Low
+185,Liam Harris,37,Japan,Beauty,175.23,PayPal,2024-12-07,Low
+57,Elijah White,43,Brazil,Home & Kitchen,266.4,UPI,2023-11-26,Low
+942,Ava Thompson,19,Japan,Books,242.75,Credit Card,2023-08-24,Low
+850,Noah Lewis,39,UK,Toys,86.82,Credit Card,2024-12-02,Low
+1163,Liam Allen,62,USA,Electronics,213.33,PayPal,2023-11-23,Low
+219,Isabella Allen,64,Canada,Home & Kitchen,623.4,Net Banking,2023-06-07,Low
+844,Elijah Hall,38,UK,Beauty,686.07,Credit Card,2023-03-22,Low
+114,Isabella Lewis,37,France,Home & Kitchen,734.62,Net Banking,2023-10-08,High
+549,Ava Anderson,69,Mexico,Toys,761.07,Debit Card,2024-09-17,High
+1108,Elijah Anderson,32,Mexico,Toys,623.25,PayPal,2023-11-07,Low
+1100,Noah Walker,19,Brazil,Beauty,465.8,Credit Card,2023-07-23,Low
+175,Noah Hall,49,France,Electronics,878.48,Cash on Delivery,2024-04-24,High
+1144,Isabella Clark,64,France,Toys,13.32,Cash on Delivery,2025-02-20,Low
+616,Olivia Hall,46,France,Books,544.06,Net Banking,2025-01-04,Low
+514,Oliver Harris,54,UK,Clothing,581.12,Cash on Delivery,2024-06-12,Low
+462,Oliver Walker,35,USA,Grocery,869.28,Cash on Delivery,2024-07-08,High
+287,Noah Hall,60,UK,Books,334.92,Debit Card,2023-05-01,Low
+382,James Allen,29,UK,Sports,674.56,Debit Card,2023-09-15,Low
+1086,James Rodriguez,50,Mexico,Electronics,571.14,Debit Card,2023-11-06,Low
+671,Elijah Hall,30,UK,Clothing,488.95,Net Banking,2023-05-16,Low
+535,Olivia Clark,63,Japan,Beauty,906.47,Debit Card,2023-08-10,High
+909,Oliver Walker,32,India,Toys,544.05,UPI,2023-05-29,Low
+293,Ava Walker,40,Australia,Books,487.04,Net Banking,2023-04-23,Low
+124,Olivia Clark,38,Mexico,Home & Kitchen,165.8,Cash on Delivery,2023-08-13,Low
+583,Noah Hall,52,India,Beauty,22.5,PayPal,2023-11-28,Low
+141,Oliver Allen,36,Mexico,Home & Kitchen,58.88,Cash on Delivery,2024-07-01,Low
+736,Emma Walker,24,Mexico,Electronics,108.4,Net Banking,2023-10-18,Low
+82,Isabella Hall,69,Mexico,Electronics,704.6,Credit Card,2023-03-28,High
+989,Ava Thompson,56,Japan,Sports,762.87,UPI,2024-02-21,High
+740,Isabella Harris,65,Germany,Books,687.45,Cash on Delivery,2023-10-29,Low
+1056,Liam Allen,37,France,Grocery,824.67,Debit Card,2024-02-15,High
+908,Noah Harris,50,Australia,Beauty,350.26,Net Banking,2023-05-27,Low
+831,Emma Clark,59,Japan,Sports,409.2,Credit Card,2023-08-21,Low
+1011,Sophia Hall,51,Japan,Clothing,317.93,Cash on Delivery,2023-10-05,Low
+372,Isabella Clark,52,Brazil,Sports,6.59,Cash on Delivery,2024-04-20,Low
+889,Isabella Anderson,50,Japan,Sports,62.1,Debit Card,2023-12-30,Low
+157,Oliver Walker,39,Germany,Books,581.27,Credit Card,2024-03-14,Low
+991,Sophia Thompson,22,USA,Toys,366.33,PayPal,2023-08-30,Low
+622,Isabella Rodriguez,19,India,Clothing,896.55,Debit Card,2024-05-17,High
+766,Liam Walker,30,France,Books,731.12,Net Banking,2024-05-14,High
+245,Sophia Walker,35,France,Toys,928.17,UPI,2023-04-02,High
+159,Elijah Walker,70,Japan,Books,548.43,PayPal,2024-08-16,Low
+746,Isabella Thompson,44,Brazil,Grocery,477.36,Credit Card,2023-05-06,Low
+193,Liam Thompson,59,Canada,Books,797.55,Cash on Delivery,2024-08-23,High
+534,Ava White,53,Brazil,Home & Kitchen,572.68,Credit Card,2024-06-23,Low
+815,Emma Clark,70,USA,Grocery,641.31,Debit Card,2023-07-02,Low
+913,Sophia Allen,25,UK,Toys,354.93,Cash on Delivery,2023-12-19,Low
+1069,Olivia Anderson,29,Germany,Electronics,469.08,Net Banking,2024-06-27,Low
+414,Oliver Clark,34,Australia,Books,853.31,Credit Card,2024-02-04,High
+1186,Sophia Thompson,24,Mexico,Toys,18.97,Debit Card,2024-07-08,Low
+328,Ava Rodriguez,41,France,Books,468.11,UPI,2024-01-12,Low
+129,Olivia Harris,65,USA,Sports,832.36,Debit Card,2023-09-21,High
+695,James Allen,42,France,Sports,797.92,UPI,2025-02-18,High
+631,Emma Anderson,31,UK,Sports,926.97,Net Banking,2023-12-05,High
+275,Ava Thompson,64,Canada,Home & Kitchen,580.88,UPI,2024-09-04,Low
+1147,Olivia Hall,53,Canada,Grocery,612.73,Credit Card,2023-10-27,Low
+309,Olivia Hall,27,Germany,Toys,686.13,UPI,2024-08-05,Low
+234,Olivia Harris,33,Canada,Grocery,617.86,PayPal,2024-04-02,Low
+1047,Sophia Anderson,65,Mexico,Home & Kitchen,588.67,UPI,2024-11-28,Low
+623,Ava Clark,44,Australia,Beauty,114.16,PayPal,2024-05-24,Low
+644,Olivia Rodriguez,52,Japan,Sports,659.26,Net Banking,2024-06-19,Low
+479,Sophia Walker,22,Japan,Electronics,642.96,UPI,2024-11-20,Low
+472,Emma Walker,62,USA,Beauty,828.24,PayPal,2025-02-11,High
+925,Noah Clark,36,Canada,Home & Kitchen,319.3,Cash on Delivery,2024-01-19,Low
+804,Ava Harris,48,USA,Electronics,658.58,PayPal,2023-06-28,Low
+627,Isabella Walker,61,Mexico,Home & Kitchen,426.21,Cash on Delivery,2024-02-22,Low
+395,Sophia Lewis,32,Germany,Beauty,343.0,PayPal,2025-02-14,Low
+637,Emma Thompson,26,USA,Home & Kitchen,750.98,Debit Card,2024-04-26,High
+1037,James Walker,35,Germany,Toys,629.25,UPI,2025-01-22,Low
+533,Elijah Walker,18,India,Clothing,222.32,Cash on Delivery,2024-02-12,Low
+718,Ava Lewis,55,Japan,Books,130.51,Net Banking,2023-08-07,Low
+667,Oliver Lewis,63,Australia,Clothing,882.8,Cash on Delivery,2023-11-13,High
+598,Liam Allen,52,UK,Sports,850.43,UPI,2024-09-10,High
+482,Ava Walker,31,Germany,Toys,649.5,PayPal,2024-10-26,Low
+1012,Oliver Walker,46,Canada,Sports,545.17,Cash on Delivery,2024-08-21,Low
+315,Oliver Thompson,24,France,Beauty,910.45,UPI,2025-02-01,High
+729,Emma Clark,23,India,Grocery,570.22,Credit Card,2023-06-02,Low
+210,Olivia Rodriguez,36,Mexico,Electronics,189.69,UPI,2024-05-15,Low
+933,Liam Anderson,24,Brazil,Toys,115.62,Credit Card,2024-05-27,Low
+434,Oliver Rodriguez,19,Canada,Grocery,379.64,Debit Card,2024-03-11,Low
+329,Isabella Lewis,25,USA,Sports,758.25,UPI,2023-08-03,High
+261,James Anderson,68,Canada,Home & Kitchen,496.38,Debit Card,2024-09-02,Low
+1116,Olivia Lewis,45,Canada,Grocery,377.73,Credit Card,2023-04-28,Low
+307,Sophia Walker,26,Japan,Sports,140.06,PayPal,2023-06-28,Low
+928,Noah Clark,30,Japan,Grocery,439.04,UPI,2024-08-25,Low
+927,Elijah Hall,57,Australia,Grocery,518.89,Net Banking,2024-12-31,Low
+954,Isabella White,50,Brazil,Electronics,275.06,UPI,2023-08-30,Low
+271,Noah Thompson,52,India,Home & Kitchen,97.84,Debit Card,2025-01-04,Low
+291,Sophia White,62,USA,Books,377.51,Net Banking,2025-02-03,Low
+812,Liam Walker,31,Brazil,Home & Kitchen,15.45,Credit Card,2024-11-08,Low
+97,Noah Clark,61,Mexico,Clothing,545.03,Debit Card,2023-07-21,Low
+887,Emma Harris,58,Canada,Grocery,32.39,Debit Card,2024-11-27,Low
+843,Noah Clark,57,Germany,Books,706.2,Cash on Delivery,2023-10-29,High
+32,Oliver Allen,30,Canada,Books,161.22,Debit Card,2024-08-17,Low
+762,Liam Rodriguez,60,India,Books,990.68,Net Banking,2024-04-08,High
+853,Sophia Harris,53,Japan,Books,981.71,Cash on Delivery,2024-06-17,High
+320,Oliver White,58,India,Books,63.75,Net Banking,2024-10-27,Low
+299,James Allen,54,Brazil,Home & Kitchen,168.4,Net Banking,2024-11-11,Low
+200,Ava Hall,62,UK,Toys,713.08,Debit Card,2024-03-05,High
+561,Olivia Anderson,37,Mexico,Electronics,873.09,PayPal,2023-07-11,High
+179,Olivia Lewis,51,Canada,Toys,32.54,Credit Card,2023-12-23,Low
+1197,Noah Hall,65,Canada,Electronics,257.39,Net Banking,2024-12-09,Low
+89,Emma Harris,56,Japan,Toys,478.1,Credit Card,2024-09-08,Low
+786,Emma Hall,35,Germany,Toys,930.14,UPI,2024-06-26,High
+725,Ava Walker,25,Mexico,Sports,634.63,UPI,2024-12-06,Low
+826,Olivia Walker,54,UK,Beauty,229.82,Net Banking,2023-08-03,Low
+209,Isabella Thompson,45,Australia,Beauty,565.87,Net Banking,2024-04-12,Low
+1082,Olivia Hall,51,Japan,Electronics,45.21,Credit Card,2023-10-26,Low
+297,Emma Lewis,52,France,Grocery,296.94,Credit Card,2023-10-10,Low
+997,Olivia Lewis,55,UK,Grocery,269.45,Debit Card,2023-09-11,Low
+498,Ava Clark,64,Germany,Toys,376.32,PayPal,2024-03-25,Low
+834,Elijah Clark,20,USA,Clothing,154.34,PayPal,2024-01-09,Low
+430,Elijah Rodriguez,55,India,Sports,910.78,Debit Card,2023-08-26,High
+507,Sophia White,65,Canada,Sports,738.16,PayPal,2024-05-31,High
+830,Sophia Walker,50,UK,Clothing,55.99,Debit Card,2023-10-26,Low
+694,Liam White,39,France,Toys,217.49,Cash on Delivery,2023-10-19,Low
+11,James Clark,30,Japan,Home & Kitchen,344.6,Net Banking,2023-08-11,Low
+847,Noah Lewis,47,Canada,Grocery,959.51,Debit Card,2024-12-13,High
+463,Oliver Thompson,36,Japan,Books,428.31,Debit Card,2024-01-02,Low
+199,Elijah Hall,24,USA,Home & Kitchen,465.35,Cash on Delivery,2024-08-19,Low
+60,Noah Clark,20,Germany,Toys,128.23,Net Banking,2023-11-18,Low
+906,Noah Harris,22,Mexico,Books,446.86,Net Banking,2024-05-25,Low
+1136,Liam Thompson,63,USA,Home & Kitchen,90.99,Debit Card,2024-05-14,Low
+276,Sophia Harris,35,Canada,Books,781.25,PayPal,2024-03-22,High
+808,Sophia Walker,32,Canada,Sports,765.94,UPI,2023-05-21,High
+950,Elijah Walker,42,Australia,Sports,764.21,Net Banking,2024-10-29,High
+658,Sophia Allen,53,USA,Electronics,659.62,PayPal,2024-06-22,Low
+1151,Olivia Anderson,22,Japan,Home & Kitchen,919.3,Net Banking,2023-06-08,High
+885,Isabella Lewis,40,France,Sports,363.61,Credit Card,2024-08-27,Low
+221,Oliver Lewis,48,Japan,Sports,575.09,Net Banking,2024-03-29,Low
+788,James Hall,66,USA,Beauty,906.55,UPI,2024-03-18,High
+712,Isabella Rodriguez,30,UK,Grocery,292.68,PayPal,2023-05-28,Low
+714,James Anderson,36,USA,Toys,662.43,Cash on Delivery,2023-06-29,Low
+1112,Oliver Anderson,53,Mexico,Electronics,552.27,Debit Card,2024-02-09,Low
+1123,Noah Harris,60,Canada,Home & Kitchen,871.42,Debit Card,2023-12-08,High
+789,Olivia Harris,29,Canada,Toys,827.52,Credit Card,2023-08-15,High
+416,Ava Lewis,47,Australia,Toys,106.92,Cash on Delivery,2024-05-21,Low
+1153,Olivia Allen,57,USA,Electronics,438.96,Net Banking,2024-05-08,Low
+934,Noah Walker,52,Japan,Clothing,152.19,UPI,2023-06-15,Low
+266,Ava White,24,Canada,Clothing,672.78,UPI,2024-02-25,Low
+632,Ava Lewis,18,Canada,Grocery,388.4,Net Banking,2023-05-09,Low
+248,Oliver Harris,70,Canada,Grocery,135.45,UPI,2024-01-24,Low
+683,Oliver Clark,22,Mexico,Electronics,784.45,Debit Card,2024-05-13,High
+559,Elijah Hall,45,Mexico,Toys,8.24,Net Banking,2023-03-26,Low
+995,Oliver Allen,67,India,Clothing,376.39,Debit Card,2025-01-28,Low
+967,James Allen,66,Brazil,Electronics,356.98,PayPal,2024-01-25,Low
+935,Emma Hall,53,Canada,Grocery,36.18,Debit Card,2023-06-11,Low
+984,James Rodriguez,59,Japan,Sports,106.44,Net Banking,2024-09-07,Low
+295,Isabella Clark,45,Germany,Home & Kitchen,267.32,Net Banking,2024-10-05,Low
+520,Noah Allen,51,USA,Beauty,937.83,UPI,2025-01-18,High
+1187,Ava Lewis,62,Germany,Clothing,753.39,PayPal,2023-09-27,High
+84,Isabella Anderson,21,India,Electronics,999.57,Credit Card,2024-01-12,High
+232,Sophia Anderson,32,Australia,Home & Kitchen,355.26,Debit Card,2024-03-05,Low
+621,Noah Hall,69,Australia,Clothing,681.12,UPI,2025-03-06,Low
+334,James Hall,56,UK,Sports,875.92,UPI,2024-02-07,High
+130,Liam Clark,66,France,Sports,459.06,PayPal,2025-03-01,Low
+895,Emma Hall,52,Japan,Books,861.78,UPI,2024-09-23,High
+645,Oliver Lewis,39,Brazil,Books,355.14,UPI,2024-02-06,Low
+1059,James Thompson,40,Mexico,Electronics,453.49,Cash on Delivery,2023-05-26,Low
+383,Liam Clark,52,Germany,Books,311.95,Net Banking,2024-08-27,Low
+867,Oliver Anderson,45,Canada,Home & Kitchen,154.02,UPI,2024-05-21,Low
+543,Emma Anderson,47,Germany,Books,304.84,Cash on Delivery,2023-09-29,Low
+1193,Elijah Walker,31,USA,Grocery,232.08,Credit Card,2024-11-26,Low
+874,Emma Hall,20,USA,Beauty,793.94,Net Banking,2024-06-11,High
+332,Oliver Clark,53,India,Toys,438.07,Credit Card,2023-09-17,Low
+410,Ava Walker,52,France,Electronics,874.8,Debit Card,2025-01-13,High
+77,Liam Anderson,37,Australia,Sports,402.94,UPI,2024-10-19,Low
+868,Emma Anderson,49,Brazil,Electronics,717.61,Debit Card,2023-03-16,High
+139,Sophia Clark,19,UK,Toys,271.2,PayPal,2023-12-05,Low
+544,Noah Allen,27,India,Grocery,627.62,Debit Card,2024-10-07,Low
+674,Oliver Thompson,60,UK,Beauty,341.96,Net Banking,2024-05-30,Low
+968,Olivia Anderson,31,Canada,Toys,528.99,Credit Card,2024-07-27,Low
+64,Sophia Thompson,68,Japan,Electronics,453.69,Cash on Delivery,2024-09-07,Low
+142,Olivia Harris,39,USA,Sports,423.82,Credit Card,2024-06-27,Low
+717,Elijah Clark,25,Japan,Beauty,200.2,PayPal,2024-10-23,Low
+377,Ava Rodriguez,68,France,Grocery,715.14,Debit Card,2023-08-31,High
+364,Liam White,23,UK,Sports,941.79,Debit Card,2023-09-17,High
+140,Emma Lewis,52,Canada,Electronics,476.71,Debit Card,2023-11-10,Low
+1034,Emma Harris,29,Germany,Toys,122.49,PayPal,2023-06-25,Low
+835,Olivia Clark,33,Brazil,Books,849.79,UPI,2023-07-24,High
+225,Elijah Rodriguez,29,Germany,Toys,628.8,UPI,2024-06-21,Low
+515,Olivia Harris,50,India,Electronics,158.92,Net Banking,2024-02-07,Low
+267,Liam Rodriguez,18,Mexico,Sports,852.28,UPI,2023-06-26,High
+1169,Ava Thompson,40,Japan,Sports,248.02,Debit Card,2024-07-01,Low
+487,Liam Clark,31,USA,Clothing,498.72,Cash on Delivery,2023-05-04,Low
+353,Isabella Anderson,47,Japan,Books,999.61,Credit Card,2024-10-04,High
+778,Ava Rodriguez,45,Mexico,Books,217.16,UPI,2025-02-18,Low
+618,James Allen,59,UK,Grocery,7.51,Net Banking,2023-09-06,Low
+668,Oliver Lewis,57,USA,Sports,883.97,Cash on Delivery,2023-11-23,High
+922,Ava Allen,60,UK,Clothing,799.63,Cash on Delivery,2024-11-18,High
+554,James Hall,70,Australia,Clothing,784.71,Debit Card,2024-10-03,High
+576,Noah Anderson,33,India,Home & Kitchen,907.66,Debit Card,2023-08-21,High
+1051,Oliver White,59,Germany,Sports,584.24,Cash on Delivery,2024-11-22,Low
+466,Elijah Thompson,51,UK,Toys,920.65,Credit Card,2024-05-17,High
+591,Oliver Walker,54,Mexico,Home & Kitchen,792.46,Credit Card,2024-07-20,High
+994,Noah Rodriguez,22,Canada,Clothing,733.5,UPI,2024-10-26,High
+635,Noah Harris,45,India,Toys,37.03,Credit Card,2023-04-14,Low
+837,Elijah Harris,25,Australia,Electronics,849.54,Cash on Delivery,2023-04-14,High
+290,Sophia Anderson,61,Australia,Clothing,608.88,UPI,2023-10-30,Low
+40,Olivia Allen,60,Japan,Books,872.01,Cash on Delivery,2025-01-20,High
+31,Liam Thompson,19,UK,Home & Kitchen,518.82,PayPal,2024-03-07,Low
+243,Isabella Lewis,29,Canada,Clothing,969.99,Credit Card,2025-03-03,High
+429,Ava Harris,56,India,Grocery,351.9,UPI,2023-03-28,Low
+137,Sophia Harris,41,Germany,Toys,992.4,PayPal,2023-12-22,High
+972,Noah Rodriguez,33,France,Beauty,491.5,Net Banking,2023-10-25,Low
+1016,Oliver Anderson,60,Germany,Sports,855.55,Net Banking,2024-11-22,High
+4,Elijah White,43,Mexico,Sports,401.09,UPI,2023-06-21,Low
+1166,Olivia Hall,31,Canada,Books,757.62,UPI,2024-10-21,High
+603,Elijah Clark,30,Germany,Toys,426.91,Debit Card,2024-07-20,Low
+1033,Oliver Clark,19,Australia,Beauty,934.05,Cash on Delivery,2023-03-09,High
+655,James Lewis,31,USA,Grocery,156.44,Net Banking,2024-06-13,Low
+817,Oliver Thompson,36,Canada,Books,228.14,PayPal,2024-12-04,Low
+810,Oliver Anderson,29,Mexico,Books,237.37,Net Banking,2024-03-21,Low
+1073,Liam White,49,France,Grocery,528.1,Credit Card,2025-02-01,Low
+443,Liam Walker,55,France,Toys,218.63,Debit Card,2023-11-06,Low
+856,Ava White,32,Canada,Books,270.98,Credit Card,2025-01-21,Low
+436,Liam White,62,UK,Clothing,855.12,PayPal,2023-05-16,High
+957,Oliver White,35,UK,Home & Kitchen,959.65,Cash on Delivery,2024-05-09,High
+101,Elijah Thompson,67,Australia,Sports,998.53,Cash on Delivery,2024-01-31,High
+772,Ava Hall,56,India,Toys,617.13,PayPal,2024-01-24,Low
+495,Isabella Rodriguez,59,Mexico,Grocery,565.19,Debit Card,2023-05-27,Low
+1027,Olivia Allen,35,Germany,Toys,382.03,Debit Card,2024-11-15,Low
+1185,Oliver Clark,23,Japan,Books,86.47,Net Banking,2024-09-27,Low
+1141,Noah Harris,44,India,Books,622.51,UPI,2023-07-17,Low
+758,Oliver Rodriguez,50,Australia,Toys,537.96,UPI,2023-11-16,Low
+986,Oliver White,19,Japan,Home & Kitchen,198.4,UPI,2024-01-09,Low
+228,Noah Rodriguez,55,Germany,Beauty,668.4,UPI,2024-01-23,Low
+1192,Ava Allen,39,Canada,Grocery,969.61,Debit Card,2024-08-10,High
+672,James Clark,47,UK,Books,502.91,Credit Card,2023-06-10,Low
+858,Noah Hall,56,Mexico,Beauty,811.63,Net Banking,2024-10-19,High
+924,Olivia Hall,45,India,Home & Kitchen,113.06,Credit Card,2024-07-13,Low
+67,Ava Lewis,63,Mexico,Clothing,264.13,UPI,2024-12-12,Low
+68,James Thompson,44,Australia,Electronics,238.88,Cash on Delivery,2023-04-10,Low
+903,Olivia Hall,41,India,Grocery,897.34,PayPal,2023-10-28,High
+212,Oliver Anderson,57,Japan,Books,675.13,PayPal,2023-09-02,Low
+13,Sophia Harris,21,France,Toys,380.15,PayPal,2024-12-10,Low
+494,Oliver Harris,63,USA,Books,557.26,Debit Card,2023-12-02,Low
+1164,Ava Thompson,41,Mexico,Beauty,656.33,Cash on Delivery,2023-09-21,Low
+300,Ava Lewis,58,Canada,Books,315.51,Debit Card,2023-10-15,Low
+411,Liam Harris,59,Brazil,Sports,129.52,Net Banking,2025-01-23,Low
+756,Emma Walker,67,Canada,Electronics,801.55,Net Banking,2023-07-06,High
+1074,Emma Rodriguez,21,Canada,Electronics,798.39,Net Banking,2023-06-09,High
+696,Liam Clark,21,India,Toys,836.83,Cash on Delivery,2023-12-13,High
+1150,Liam Anderson,33,Mexico,Toys,760.05,Debit Card,2024-08-21,High
+724,Emma Hall,18,USA,Books,617.83,UPI,2024-11-15,Low
+1015,Noah Allen,23,UK,Sports,8.19,Debit Card,2024-10-29,Low
+528,Ava Rodriguez,41,UK,Toys,461.31,UPI,2023-04-17,Low
+600,Ava Allen,32,USA,Home & Kitchen,688.85,UPI,2023-07-15,Low
+1119,Ava Anderson,41,USA,Electronics,573.06,UPI,2023-07-19,Low
+567,Isabella Walker,65,Mexico,Clothing,182.7,UPI,2023-10-03,Low
+731,Oliver White,33,Brazil,Clothing,886.42,Debit Card,2024-05-17,High
+274,James Harris,25,Brazil,Toys,804.63,Net Banking,2024-06-04,High
+966,Liam White,54,UK,Clothing,979.97,PayPal,2024-09-25,High
+238,James Harris,42,Canada,Sports,585.5,PayPal,2024-06-04,Low
+406,Liam Anderson,33,Canada,Beauty,118.12,Credit Card,2024-07-18,Low
+3,Elijah Thompson,26,France,Books,178.34,Credit Card,2023-09-17,Low
+7,Oliver Clark,27,Germany,Home & Kitchen,341.73,Credit Card,2024-03-13,Low
+312,Noah Clark,61,Mexico,Books,900.7,Net Banking,2024-04-30,High
+1028,Ava Clark,19,UK,Home & Kitchen,666.77,Credit Card,2023-11-15,Low
+452,Sophia Harris,19,Germany,Grocery,540.13,Cash on Delivery,2024-04-29,Low
+722,Sophia Thompson,37,UK,Clothing,509.54,Debit Card,2024-07-13,Low
+216,Sophia Anderson,50,Japan,Clothing,893.03,Debit Card,2023-06-08,High
+794,Oliver Anderson,62,Australia,Books,519.31,PayPal,2024-04-01,Low
+28,Ava Thompson,36,UK,Grocery,454.08,Credit Card,2023-09-15,Low
+1157,Ava Rodriguez,63,Australia,Grocery,563.9,Debit Card,2023-08-16,Low
+362,Elijah Lewis,44,Australia,Sports,287.06,Credit Card,2025-02-09,Low
+947,Emma Hall,30,Australia,Toys,723.25,UPI,2023-11-05,High
+1103,Liam Hall,40,UK,Electronics,90.39,Cash on Delivery,2025-02-18,Low
+629,Sophia Hall,32,Germany,Sports,277.48,Net Banking,2023-11-21,Low
+454,Emma Clark,19,Australia,Sports,132.79,Net Banking,2024-02-09,Low
+739,Isabella Rodriguez,39,Brazil,Books,512.96,PayPal,2023-12-19,Low
+536,Oliver Clark,35,USA,Home & Kitchen,913.35,UPI,2024-01-06,High
+1049,James Anderson,22,USA,Electronics,972.13,Cash on Delivery,2024-01-08,High
+399,Olivia Rodriguez,23,Australia,Home & Kitchen,47.6,UPI,2024-11-23,Low
+257,Emma Walker,54,Canada,Electronics,368.71,Net Banking,2024-02-02,Low
+292,Elijah Allen,40,Australia,Grocery,996.81,UPI,2024-02-24,High
+26,Sophia Walker,39,Brazil,Grocery,51.94,Cash on Delivery,2024-04-14,Low
+337,James Clark,38,Germany,Toys,622.23,Debit Card,2023-11-23,Low
+585,Emma Rodriguez,25,France,Sports,860.79,Debit Card,2024-01-17,High
+48,Ava Anderson,45,Japan,Electronics,281.29,PayPal,2024-04-11,Low
+319,Olivia Clark,31,Germany,Toys,504.26,Credit Card,2023-05-13,Low
+107,Noah Thompson,65,Brazil,Clothing,929.85,Debit Card,2023-07-24,High
+910,Ava Walker,38,Mexico,Clothing,518.89,PayPal,2024-08-12,Low
+56,Sophia White,30,USA,Home & Kitchen,638.3,Cash on Delivery,2023-08-16,Low
+523,Noah White,39,Brazil,Toys,651.47,Cash on Delivery,2024-02-21,Low
+214,Noah Harris,22,UK,Sports,960.72,Credit Card,2023-10-12,High
+121,Isabella Rodriguez,63,Brazil,Electronics,47.33,Net Banking,2024-08-19,Low
+917,Elijah Harris,41,USA,Home & Kitchen,163.11,Net Banking,2024-09-11,Low
+1067,Oliver Anderson,35,Brazil,Toys,100.54,Debit Card,2023-12-26,Low
+1117,Elijah Rodriguez,60,India,Toys,359.61,Cash on Delivery,2023-04-14,Low
+73,Noah Thompson,40,UK,Clothing,695.27,UPI,2023-05-25,Low
+821,Olivia Clark,26,Japan,Clothing,463.35,Cash on Delivery,2023-07-19,Low
+747,Sophia Hall,32,Canada,Grocery,524.44,Cash on Delivery,2023-12-22,Low
+716,Liam Thompson,25,Mexico,Clothing,702.21,Debit Card,2025-03-03,High
+558,Oliver Lewis,46,France,Toys,781.03,Net Banking,2024-11-22,High
+891,Sophia Lewis,43,India,Sports,209.99,Credit Card,2024-06-15,Low
+784,Sophia Lewis,55,Mexico,Toys,688.96,Net Banking,2024-06-08,Low
+553,Noah Anderson,61,India,Sports,926.18,PayPal,2024-07-25,High
+562,Ava Harris,40,Australia,Beauty,5.94,UPI,2024-03-06,Low
+425,Ava Hall,21,Germany,Clothing,977.34,PayPal,2024-12-31,High
+1066,Oliver Thompson,35,France,Toys,896.24,Cash on Delivery,2024-07-09,High
+326,Elijah Clark,48,France,Books,137.15,PayPal,2024-06-20,Low
+923,Liam Anderson,59,Canada,Grocery,283.05,UPI,2025-01-22,Low
+317,Ava Walker,42,Australia,Electronics,647.2,Cash on Delivery,2024-08-27,Low
+803,Isabella Thompson,39,Canada,Home & Kitchen,648.36,Cash on Delivery,2024-07-18,Low
+827,Olivia Walker,51,Canada,Books,509.63,Debit Card,2023-06-26,Low
+529,Noah Rodriguez,59,USA,Grocery,500.72,PayPal,2024-03-26,Low
+1041,Sophia Harris,57,Brazil,Sports,60.23,UPI,2023-11-19,Low
+715,Ava Harris,66,Mexico,Books,711.96,Debit Card,2024-06-12,High
+900,Oliver Allen,23,Australia,Books,339.94,PayPal,2023-09-22,Low
+61,Liam Rodriguez,42,UK,Beauty,232.52,Credit Card,2025-02-24,Low
+723,Oliver Lewis,50,India,Grocery,796.22,Cash on Delivery,2024-01-28,High
+93,Liam Thompson,42,Germany,Electronics,341.89,Cash on Delivery,2024-03-28,Low
+1177,Olivia Rodriguez,57,Japan,Books,210.2,UPI,2024-03-28,Low
+619,Emma Thompson,32,UK,Clothing,702.4,Credit Card,2023-07-04,High
+352,Noah Harris,53,Canada,Grocery,417.75,Debit Card,2024-02-12,Low
+1023,Liam Clark,33,Mexico,Sports,605.34,Credit Card,2024-11-04,Low
+281,Olivia Clark,43,Brazil,Home & Kitchen,550.07,Net Banking,2023-03-15,Low
+421,Sophia Hall,45,Brazil,Home & Kitchen,32.19,Net Banking,2024-04-17,Low
+1114,Liam Anderson,69,France,Clothing,44.24,Credit Card,2024-06-23,Low
+360,Oliver White,38,India,Home & Kitchen,654.58,UPI,2023-11-14,Low
+423,Isabella Allen,67,Brazil,Toys,706.13,Cash on Delivery,2023-07-31,High
+679,Oliver Harris,42,UK,Books,83.9,Cash on Delivery,2024-08-05,Low
+527,Ava Thompson,26,Canada,Toys,930.64,UPI,2023-06-10,High
+478,Olivia Allen,48,UK,Clothing,138.19,Debit Card,2024-03-06,Low
+1094,Olivia Clark,61,Germany,Sports,127.08,Credit Card,2023-04-23,Low
+183,Oliver White,33,Australia,Electronics,477.62,Net Banking,2024-12-23,Low
+1091,Liam Thompson,24,France,Grocery,605.16,Credit Card,2025-01-05,Low
+433,Elijah Thompson,47,Mexico,Beauty,396.91,Credit Card,2024-11-12,Low
+111,Noah Allen,58,India,Toys,7.09,Cash on Delivery,2024-03-03,Low
+371,Oliver Walker,34,France,Electronics,819.79,UPI,2023-04-22,High
+240,Ava Allen,64,UK,Grocery,702.28,PayPal,2024-03-25,High
+709,Liam Thompson,40,India,Sports,202.41,Credit Card,2024-10-22,Low
+630,Sophia Rodriguez,32,Brazil,Grocery,255.42,Cash on Delivery,2023-12-02,Low
+594,Isabella White,54,Australia,Home & Kitchen,783.44,UPI,2023-09-02,High
+486,James Walker,39,Australia,Grocery,345.47,Net Banking,2024-06-24,Low
+701,Ava Harris,35,Mexico,Grocery,71.05,Cash on Delivery,2024-11-13,Low
+262,Emma Lewis,27,India,Beauty,765.9,Debit Card,2025-02-28,High
+480,Sophia Rodriguez,49,Brazil,Grocery,491.41,UPI,2024-12-10,Low
+650,Noah Rodriguez,64,Brazil,Home & Kitchen,719.28,Net Banking,2023-11-12,High
+340,Sophia Harris,45,India,Sports,342.57,Credit Card,2023-08-30,Low
+669,Elijah Lewis,48,Canada,Books,988.75,Debit Card,2023-08-12,High
+552,Liam Thompson,20,Germany,Clothing,118.15,Cash on Delivery,2024-01-16,Low
+459,James Thompson,47,France,Sports,191.82,Credit Card,2024-09-27,Low
+184,Olivia Lewis,34,Japan,Home & Kitchen,732.2,UPI,2023-11-06,High
+138,Liam Allen,49,USA,Toys,235.76,Net Banking,2024-08-07,Low
+1160,Olivia Rodriguez,24,Mexico,Electronics,941.55,UPI,2024-06-28,High
+707,Oliver Harris,45,Japan,Sports,993.4,Debit Card,2023-06-03,High
+582,Oliver Anderson,51,Australia,Grocery,936.17,Net Banking,2024-12-21,High
+81,Sophia Anderson,70,USA,Sports,943.83,Cash on Delivery,2024-02-04,High
+768,Emma Rodriguez,43,France,Sports,766.51,Debit Card,2024-03-12,High
+863,James Hall,19,Canada,Toys,741.49,Cash on Delivery,2023-05-27,High
+761,Liam Lewis,56,Japan,Electronics,809.8,UPI,2023-04-10,High
+30,Emma White,18,Canada,Home & Kitchen,381.67,Cash on Delivery,2023-05-16,Low
+542,Emma Rodriguez,40,India,Beauty,580.2,Debit Card,2023-08-11,Low
+166,Olivia Anderson,51,Canada,Sports,134.17,UPI,2024-05-11,Low
+249,Ava Clark,69,Japan,Toys,544.6,Net Banking,2024-04-06,Low
+308,Emma Rodriguez,50,Australia,Sports,517.98,Debit Card,2023-08-05,Low
+448,Noah Walker,20,UK,Beauty,617.96,Net Banking,2024-11-20,Low
+347,Olivia White,21,Mexico,Sports,677.64,Cash on Delivery,2024-04-09,Low
+335,Liam Walker,51,Canada,Beauty,966.07,Credit Card,2024-10-27,High
+286,Emma Allen,64,India,Grocery,958.35,PayPal,2025-02-10,High
+949,Olivia Thompson,28,India,Grocery,235.49,UPI,2023-12-21,Low
+98,Olivia Harris,67,USA,Books,995.04,PayPal,2023-10-10,High
+468,Oliver White,18,Australia,Electronics,590.2,Credit Card,2025-01-15,Low
+1036,Ava Harris,66,Canada,Beauty,872.2,Credit Card,2024-12-31,High
+912,Emma Lewis,31,Mexico,Beauty,699.05,Credit Card,2024-01-30,Low
+755,Noah Lewis,49,USA,Beauty,797.1,Net Banking,2023-03-22,High
+944,Noah Clark,41,Mexico,Toys,438.95,PayPal,2023-04-21,Low
+614,Noah Clark,35,India,Sports,204.29,UPI,2024-11-16,Low
+941,Oliver Allen,57,Mexico,Toys,90.13,PayPal,2023-06-02,Low
+757,James Clark,18,Germany,Clothing,641.86,Credit Card,2023-06-10,Low
+689,Olivia Allen,23,Brazil,Beauty,673.67,UPI,2023-09-24,Low
+66,James Thompson,18,Germany,Clothing,269.38,Credit Card,2024-02-28,Low
+869,Oliver Lewis,32,India,Toys,357.01,Cash on Delivery,2023-11-04,Low
+744,James Walker,29,Australia,Electronics,796.01,Cash on Delivery,2023-05-02,High
+568,Liam White,51,India,Books,869.39,Debit Card,2024-09-13,High
+1175,Elijah White,64,India,Grocery,764.11,Net Banking,2023-05-30,High
+1098,Sophia Hall,37,Brazil,Books,644.23,Debit Card,2023-05-01,Low
+303,Sophia Walker,45,France,Sports,594.74,Credit Card,2023-10-24,Low
+255,Elijah Walker,40,Mexico,Books,247.28,UPI,2023-05-08,Low
+1168,Isabella White,25,USA,Toys,593.18,Cash on Delivery,2025-02-11,Low
+931,Ava Harris,42,Japan,Home & Kitchen,381.0,Cash on Delivery,2023-10-04,Low
+313,Ava Lewis,43,Brazil,Sports,241.97,Debit Card,2023-11-15,Low
+530,Oliver Allen,31,Japan,Beauty,249.53,Credit Card,2023-06-30,Low
+222,Olivia Anderson,60,UK,Electronics,439.06,Debit Card,2024-06-21,Low
+389,Liam Allen,60,UK,Clothing,105.66,PayPal,2024-12-08,Low
+236,Olivia Anderson,47,Canada,Books,570.5,Net Banking,2023-03-14,Low
+809,Noah Thompson,23,India,Clothing,582.66,Cash on Delivery,2024-09-02,Low
+483,Liam Thompson,38,UK,Beauty,321.23,Cash on Delivery,2023-03-18,Low
+713,Sophia Hall,22,France,Beauty,681.61,Debit Card,2025-01-04,Low
+306,Ava Hall,61,Japan,Beauty,714.33,Net Banking,2023-08-27,High
+1110,Isabella Clark,70,Japan,Electronics,139.96,Net Banking,2024-06-15,Low
+1089,Olivia Thompson,37,France,Beauty,243.66,UPI,2024-06-19,Low
+771,Isabella White,39,Mexico,Beauty,67.96,Net Banking,2023-11-25,Low
+937,Emma Lewis,63,Australia,Books,901.04,PayPal,2024-08-29,High
+1138,Liam Hall,60,Mexico,Beauty,871.71,Cash on Delivery,2024-09-23,High
+250,James Allen,24,UK,Clothing,581.66,UPI,2023-11-03,Low
+845,Olivia Thompson,54,USA,Sports,365.94,Debit Card,2024-11-25,Low
+595,Olivia Thompson,32,USA,Beauty,350.96,Cash on Delivery,2023-05-01,Low
+72,Liam Anderson,29,Australia,Clothing,367.17,Net Banking,2023-07-22,Low
+95,Ava Allen,36,Canada,Grocery,218.01,UPI,2023-10-23,Low
+546,Olivia Clark,55,UK,Electronics,441.22,PayPal,2023-05-09,Low
+34,James Lewis,42,Australia,Electronics,585.24,Debit Card,2024-10-01,Low
+1003,Liam Hall,27,Mexico,Toys,722.55,UPI,2023-06-21,High
+579,Elijah Anderson,25,UK,Electronics,123.49,Net Banking,2025-01-05,Low
+449,Isabella Anderson,68,Canada,Home & Kitchen,493.7,UPI,2024-10-01,Low
+446,Sophia Anderson,29,Mexico,Grocery,576.13,Net Banking,2023-06-09,Low
+260,Emma Thompson,45,France,Home & Kitchen,970.68,PayPal,2023-07-07,High
+205,Sophia Allen,24,Germany,Electronics,325.43,PayPal,2023-10-09,Low
+573,Sophia Clark,37,Brazil,Clothing,573.82,Debit Card,2023-03-11,Low
+823,Liam Hall,19,Mexico,Grocery,265.42,Credit Card,2024-06-06,Low
+586,Elijah Lewis,33,UK,Clothing,628.63,PayPal,2025-02-14,Low
+366,Oliver Clark,26,India,Grocery,505.75,UPI,2024-01-24,Low
+851,Liam Walker,27,Canada,Books,223.45,PayPal,2024-06-09,Low
+78,Ava Lewis,28,UK,Clothing,521.8,UPI,2024-04-12,Low
+85,Oliver Anderson,48,UK,Grocery,91.37,Credit Card,2023-05-30,Low
+539,Oliver Harris,26,Mexico,Sports,927.72,Cash on Delivery,2023-11-10,High
+83,James Lewis,33,UK,Sports,181.73,Debit Card,2024-12-27,Low
+458,Oliver Allen,31,Germany,Home & Kitchen,245.34,UPI,2023-08-27,Low
+1137,James Thompson,45,Mexico,Home & Kitchen,436.01,Cash on Delivery,2023-04-27,Low
+615,Ava Thompson,36,India,Grocery,679.46,Net Banking,2024-03-06,Low
+1097,Olivia Clark,49,Germany,Grocery,441.95,Credit Card,2023-12-10,Low
+1075,Sophia Clark,19,Australia,Home & Kitchen,917.14,UPI,2023-07-08,High
+737,Oliver White,25,Australia,Home & Kitchen,570.95,UPI,2023-04-23,Low
+437,Ava Walker,70,Brazil,Books,780.98,Cash on Delivery,2024-07-11,High
+555,Emma Walker,37,UK,Toys,787.1,Debit Card,2024-08-11,High
+1079,Isabella Anderson,58,Germany,Toys,254.12,Credit Card,2023-09-24,Low
+1061,Ava Allen,25,Japan,Toys,252.24,Cash on Delivery,2023-07-17,Low
+351,Isabella Hall,48,USA,Clothing,626.27,Net Banking,2024-10-16,Low
+197,James Hall,34,Canada,Toys,823.28,PayPal,2025-02-20,High
+465,Emma Thompson,55,France,Toys,381.46,Cash on Delivery,2024-01-11,Low
+589,Noah Hall,34,Japan,Home & Kitchen,870.73,UPI,2023-05-17,High
+6,Elijah Harris,51,India,Toys,966.5,Cash on Delivery,2025-01-18,High
+311,Liam Anderson,67,Brazil,Electronics,827.13,Credit Card,2024-07-21,High
+662,Ava Rodriguez,22,Australia,Books,342.87,PayPal,2024-09-16,Low
+405,Olivia Thompson,26,USA,Clothing,854.26,Debit Card,2024-04-05,High
+1044,Elijah Harris,61,Mexico,Toys,200.41,PayPal,2024-03-06,Low
+1043,Sophia Rodriguez,23,Germany,Clothing,946.46,UPI,2023-09-25,High
+1101,Oliver White,58,Australia,Electronics,584.44,UPI,2024-06-18,Low
+105,Elijah Harris,38,Australia,Grocery,904.43,Debit Card,2024-09-06,High
+537,Sophia Lewis,46,Mexico,Grocery,157.15,Credit Card,2024-11-10,Low
+606,Liam Hall,54,India,Toys,452.29,Credit Card,2024-03-11,Low
+63,Emma Anderson,68,UK,Sports,783.95,UPI,2024-10-24,High
+282,Sophia Rodriguez,27,Canada,Beauty,129.66,Net Banking,2024-07-18,Low
+1055,Isabella Lewis,50,India,Sports,741.82,PayPal,2023-04-09,High
+239,Noah Anderson,52,Brazil,Grocery,422.7,Debit Card,2024-02-21,Low
+224,Oliver Harris,38,Germany,Home & Kitchen,389.18,PayPal,2024-10-20,Low
+146,James Allen,27,France,Electronics,574.97,Credit Card,2025-01-28,Low
+1118,Liam Clark,33,Germany,Home & Kitchen,543.13,Debit Card,2024-01-21,Low
+374,Liam Harris,32,Brazil,Sports,425.12,PayPal,2023-05-25,Low
+119,Elijah Rodriguez,38,UK,Sports,786.5,UPI,2023-10-19,High
+802,Isabella Walker,66,Japan,Home & Kitchen,862.68,UPI,2024-06-24,High
+251,Emma Thompson,50,India,Electronics,763.0,Debit Card,2023-03-18,High
+1156,Emma Thompson,70,Mexico,Electronics,10.5,Debit Card,2023-03-09,Low
+10,Liam Allen,60,Canada,Beauty,223.9,Cash on Delivery,2023-08-07,Low
+450,Ava Clark,65,UK,Sports,66.18,Credit Card,2024-07-28,Low
+873,James Hall,42,Canada,Home & Kitchen,657.46,PayPal,2024-03-17,Low
+390,Ava Hall,19,Brazil,Toys,565.7,Net Banking,2024-10-04,Low
+965,Ava Clark,48,Germany,Books,578.33,Debit Card,2024-09-01,Low
+461,Olivia Thompson,21,USA,Electronics,102.91,Credit Card,2024-07-28,Low
+1104,James Thompson,31,Canada,Books,395.59,Credit Card,2023-10-23,Low
+145,Elijah Allen,34,UK,Clothing,613.15,UPI,2024-09-10,Low
+502,Isabella Walker,25,France,Clothing,28.8,UPI,2024-11-15,Low
+1107,Sophia Harris,49,Japan,Books,848.27,PayPal,2023-08-13,High
+540,James Clark,22,India,Toys,442.13,Cash on Delivery,2023-03-17,Low
+178,Noah Hall,69,Mexico,Home & Kitchen,657.08,Credit Card,2024-05-11,Low
+1158,Oliver Clark,36,Canada,Home & Kitchen,216.42,Cash on Delivery,2023-11-04,Low
+1050,Emma Thompson,39,France,Grocery,379.01,Cash on Delivery,2024-06-01,Low
+584,Emma Walker,44,USA,Books,608.35,Debit Card,2024-11-25,Low
+1194,Oliver White,36,Germany,Home & Kitchen,962.72,PayPal,2024-08-01,High
+8,Olivia Allen,46,Canada,Home & Kitchen,11.33,Debit Card,2024-01-04,Low
+574,Sophia Lewis,59,Japan,Beauty,904.49,UPI,2023-08-07,High
+842,Sophia Rodriguez,22,UK,Beauty,146.2,Credit Card,2023-04-13,Low
+358,Isabella Allen,54,USA,Beauty,638.61,PayPal,2023-04-05,Low
+330,Liam Rodriguez,31,India,Clothing,905.69,UPI,2024-01-19,High
+705,Ava Rodriguez,63,Australia,Books,940.43,Debit Card,2023-06-23,High
+904,Liam Anderson,48,Brazil,Sports,787.59,Debit Card,2024-04-10,High
+259,Isabella Allen,30,UK,Sports,263.76,UPI,2023-03-10,Low
+890,Oliver Thompson,45,India,Beauty,986.93,Credit Card,2023-10-12,High
+775,Sophia Walker,58,Brazil,Toys,243.27,Cash on Delivery,2023-05-26,Low
+769,Sophia Lewis,28,Brazil,Sports,311.62,Debit Card,2023-09-07,Low
+840,Elijah Walker,62,France,Sports,473.0,UPI,2024-07-11,Low
+526,Oliver White,28,India,Electronics,603.46,PayPal,2024-10-21,Low
+813,James Hall,53,USA,Books,528.16,Debit Card,2023-06-14,Low
+732,Sophia Hall,56,Germany,Books,463.72,PayPal,2023-10-31,Low
+799,James Hall,35,UK,Books,316.37,UPI,2023-11-18,Low
+1140,Ava Clark,57,Brazil,Clothing,434.59,Credit Card,2024-04-16,Low
+441,James Lewis,25,UK,Grocery,162.82,Net Banking,2024-05-12,Low
+532,Sophia White,62,Japan,Grocery,884.57,UPI,2023-07-21,High
+959,Liam Rodriguez,63,Brazil,Toys,214.92,UPI,2023-03-12,Low
+229,Liam Hall,54,USA,Grocery,455.32,UPI,2024-05-30,Low
+1040,Ava White,67,USA,Books,117.85,Net Banking,2024-09-22,Low
+213,Isabella Lewis,31,Japan,Clothing,58.82,Cash on Delivery,2024-01-12,Low
+80,Liam Allen,31,India,Grocery,22.1,Cash on Delivery,2023-09-16,Low
+149,Ava Harris,48,Canada,Books,567.73,Cash on Delivery,2025-02-25,Low
+592,Olivia Rodriguez,57,USA,Toys,464.15,Credit Card,2024-02-17,Low
+708,Ava Clark,48,Japan,Home & Kitchen,545.54,PayPal,2024-03-06,Low
+590,Liam Hall,38,Mexico,Grocery,233.27,Cash on Delivery,2023-07-19,Low
+134,Ava Walker,24,Australia,Grocery,402.56,UPI,2023-11-14,Low
+781,Isabella Hall,21,Mexico,Toys,60.43,PayPal,2024-06-17,Low
+409,Emma Clark,30,USA,Home & Kitchen,600.57,PayPal,2024-12-15,Low
+969,Noah Walker,49,Australia,Clothing,654.06,PayPal,2025-02-24,Low
+508,Isabella Rodriguez,31,USA,Grocery,196.66,Debit Card,2023-06-21,Low
+876,Liam Allen,53,UK,Sports,445.35,Net Banking,2024-11-24,Low
+505,Elijah Rodriguez,61,France,Clothing,887.1,UPI,2024-10-28,High
+719,Sophia Hall,51,UK,Electronics,367.4,Net Banking,2025-02-14,Low
+348,Ava Harris,68,Japan,Clothing,484.21,UPI,2024-08-11,Low
+387,Elijah Rodriguez,61,France,Home & Kitchen,750.12,Cash on Delivery,2024-10-17,High
+1,Ava Hall,63,Mexico,Clothing,780.69,Debit Card,2023-04-14,High
+361,Isabella Rodriguez,38,Japan,Grocery,75.37,UPI,2023-09-13,Low
+1133,Ava Clark,40,Brazil,Clothing,915.78,PayPal,2024-06-03,High
+476,Olivia Hall,68,Germany,Books,725.53,Credit Card,2023-06-16,High
+1165,Noah Walker,69,Japan,Clothing,116.95,Debit Card,2025-02-06,Low
+753,Isabella Anderson,36,Australia,Grocery,952.88,Debit Card,2023-08-22,High
+173,Sophia Walker,68,Canada,Toys,643.7,UPI,2024-01-03,Low
+451,Isabella Hall,68,USA,Electronics,651.67,UPI,2024-06-17,Low
+126,Elijah Clark,70,France,Sports,994.87,PayPal,2023-12-29,High
+1102,Elijah Anderson,20,Japan,Clothing,602.14,Cash on Delivery,2024-04-16,Low
+531,Sophia Anderson,23,Germany,Grocery,195.85,Net Banking,2024-02-22,Low
+91,Ava Rodriguez,57,USA,Sports,604.38,UPI,2023-12-31,Low
+1161,Olivia Walker,46,France,Grocery,967.87,Debit Card,2024-06-02,High
+182,James Clark,21,Canada,Clothing,577.68,UPI,2025-02-17,Low
+1145,James Walker,39,Germany,Clothing,36.66,Credit Card,2025-02-06,Low
+999,Noah Lewis,29,UK,Beauty,345.38,PayPal,2024-05-15,Low
+252,Elijah Clark,30,USA,Toys,190.5,Net Banking,2023-08-30,Low
+70,Noah Lewis,63,France,Grocery,221.52,UPI,2024-11-23,Low
+132,Emma Clark,27,India,Grocery,360.36,Debit Card,2024-10-01,Low
+301,Ava Allen,64,France,Home & Kitchen,675.25,Cash on Delivery,2023-06-13,Low
+791,Elijah Thompson,39,Japan,Beauty,558.91,Cash on Delivery,2024-10-06,Low
+327,Emma Anderson,29,Germany,Books,668.52,Debit Card,2023-05-27,Low
+1019,James Rodriguez,19,USA,Clothing,762.09,PayPal,2023-08-13,High
+500,Emma Harris,21,Australia,Electronics,848.05,UPI,2023-04-11,High
+666,Elijah Anderson,65,Mexico,Electronics,645.95,Cash on Delivery,2023-06-18,Low
+918,Emma Thompson,42,France,Electronics,862.79,Debit Card,2025-01-08,High
+496,Noah Anderson,54,Japan,Electronics,973.64,Cash on Delivery,2023-06-02,High
+339,Liam Hall,26,Brazil,Electronics,583.03,UPI,2023-10-01,Low
+1020,Sophia Hall,37,Japan,Sports,714.71,Credit Card,2023-04-19,High
+165,Emma Thompson,19,Japan,Sports,300.4,Debit Card,2025-02-07,Low
+29,Noah Harris,55,Brazil,Beauty,911.02,Cash on Delivery,2023-03-28,High
+517,Liam Lewis,19,UK,Sports,375.42,PayPal,2024-10-17,Low
+194,Noah Hall,31,Japan,Clothing,738.72,Credit Card,2024-03-27,High
+1005,Ava White,57,Brazil,Beauty,759.64,Cash on Delivery,2023-05-29,High
+170,Liam Anderson,52,India,Electronics,997.45,Cash on Delivery,2023-03-14,High
+1058,Ava White,67,France,Grocery,560.45,Credit Card,2024-01-23,Low
+174,Noah Hall,22,India,Grocery,154.34,Debit Card,2023-07-07,Low
+519,Oliver Anderson,35,Germany,Beauty,104.1,Net Banking,2024-11-04,Low
+919,Ava Thompson,36,India,Beauty,218.49,PayPal,2024-09-30,Low
+702,Emma Allen,69,Japan,Sports,907.58,UPI,2023-08-28,High
+492,Isabella Anderson,25,Brazil,Books,315.13,Cash on Delivery,2024-07-10,Low
+74,Emma White,49,Japan,Electronics,18.87,PayPal,2023-09-03,Low
+980,Isabella Lewis,41,Canada,Clothing,587.84,Credit Card,2024-09-28,Low
+588,Sophia Allen,24,India,Home & Kitchen,880.03,UPI,2023-11-27,High
+235,Oliver Thompson,62,Australia,Beauty,754.66,Credit Card,2023-12-27,High
+215,Noah Thompson,61,Brazil,Books,970.0,Debit Card,2024-05-09,High
+1001,Olivia Thompson,67,Australia,Clothing,961.19,Debit Card,2023-12-26,High
+133,Noah Anderson,47,Australia,Clothing,761.36,Debit Card,2024-12-05,High
+833,Elijah Thompson,54,France,Clothing,943.76,Cash on Delivery,2024-09-23,High
+733,Ava Thompson,26,UK,Clothing,641.85,Debit Card,2023-03-29,Low
+940,James Allen,36,Mexico,Books,655.43,Debit Card,2024-04-14,Low
+186,Isabella Walker,66,India,Electronics,725.59,Debit Card,2023-08-24,High
+42,Olivia Rodriguez,31,Germany,Toys,324.65,Debit Card,2023-08-04,Low
+109,Olivia Thompson,19,India,Books,641.24,UPI,2023-08-23,Low
+848,Noah Anderson,27,Japan,Home & Kitchen,315.13,Credit Card,2023-11-30,Low
+569,Sophia Allen,50,Japan,Home & Kitchen,688.64,Credit Card,2024-09-14,Low
+651,Liam Walker,30,Japan,Sports,437.45,Credit Card,2024-02-19,Low
+1000,Sophia Lewis,24,UK,Toys,964.2,Net Banking,2023-08-20,High
+1154,James Lewis,39,Brazil,Clothing,302.52,Credit Card,2023-12-10,Low
+484,Liam Hall,62,Germany,Electronics,391.0,Cash on Delivery,2024-03-02,Low
+469,Emma Hall,46,Brazil,Home & Kitchen,939.75,UPI,2024-08-22,High
+25,Ava Allen,21,Germany,Home & Kitchen,838.22,Debit Card,2024-11-05,High
+661,Ava Allen,48,USA,Beauty,904.16,Debit Card,2024-08-15,High
+680,Olivia Thompson,27,Canada,Clothing,49.46,UPI,2024-03-13,Low
+1031,Noah Walker,67,Canada,Electronics,770.7,Credit Card,2024-04-21,High
+993,Elijah Hall,61,Japan,Home & Kitchen,121.21,Cash on Delivery,2023-05-11,Low
+367,James Hall,56,Germany,Electronics,563.05,Debit Card,2024-04-14,Low
+839,Noah Hall,40,Mexico,Electronics,134.29,UPI,2024-12-13,Low
+1063,Isabella Allen,36,France,Books,164.49,Debit Card,2024-12-16,Low
+384,Sophia Harris,61,France,Sports,337.68,PayPal,2023-11-11,Low
+455,Noah Hall,38,Japan,Sports,409.71,UPI,2024-08-15,Low
+265,Olivia Clark,42,Germany,Beauty,222.16,Net Banking,2023-09-21,Low
+760,Noah Walker,66,Japan,Toys,555.85,Cash on Delivery,2023-04-19,Low
+979,Liam Rodriguez,53,Mexico,Beauty,14.44,UPI,2024-05-24,Low
+445,Noah Lewis,50,Canada,Grocery,10.49,Credit Card,2024-08-23,Low
+396,Elijah Allen,41,Mexico,Beauty,657.21,Cash on Delivery,2024-05-12,Low
+742,Oliver Clark,59,Canada,Sports,518.12,Debit Card,2023-05-09,Low
+177,James Walker,57,Canada,Toys,197.33,Cash on Delivery,2023-12-25,Low
+19,Noah Lewis,20,France,Beauty,682.74,PayPal,2025-02-12,Low
+948,Elijah Lewis,30,Germany,Grocery,160.58,PayPal,2024-11-29,Low
+814,Sophia Hall,56,UK,Sports,664.9,PayPal,2024-11-05,Low
+596,Elijah Hall,66,Japan,Sports,616.49,PayPal,2024-08-25,Low
+62,Liam Lewis,18,Mexico,Home & Kitchen,554.02,PayPal,2023-03-26,Low
+273,Olivia Clark,36,France,Electronics,689.94,Credit Card,2024-09-10,Low
+1125,James Clark,37,Mexico,Electronics,16.27,UPI,2025-01-20,Low
+279,James Anderson,24,Brazil,Clothing,858.79,Credit Card,2023-06-06,High
+1162,Isabella Walker,42,Mexico,Books,789.78,PayPal,2024-11-26,High
+369,Elijah Rodriguez,54,Japan,Sports,565.65,Debit Card,2023-12-11,Low
+886,Sophia Hall,40,Mexico,Clothing,826.34,Net Banking,2025-01-07,High
+819,Elijah Harris,43,Australia,Grocery,834.6,PayPal,2024-06-29,High
+859,Emma Walker,46,Mexico,Home & Kitchen,636.46,Cash on Delivery,2024-10-28,Low
+721,Elijah Clark,57,Australia,Books,780.41,Debit Card,2024-02-07,High
+773,Liam Lewis,65,Mexico,Clothing,186.1,PayPal,2024-01-30,Low
+548,Sophia Thompson,32,Brazil,Toys,184.83,PayPal,2024-08-06,Low
+907,Olivia Walker,35,Australia,Beauty,699.9,Debit Card,2024-04-04,Low
+899,Ava Thompson,48,Japan,Home & Kitchen,775.37,Credit Card,2024-06-22,High
+457,Oliver Thompson,44,Canada,Grocery,141.29,Debit Card,2024-09-23,Low
+394,Noah Thompson,52,USA,Toys,79.97,Debit Card,2023-12-06,Low
+676,Oliver Harris,69,USA,Books,968.33,Cash on Delivery,2023-04-26,High
+911,Elijah Allen,70,Japan,Sports,411.1,Cash on Delivery,2024-07-22,Low
+964,James Walker,25,India,Clothing,236.1,Net Banking,2023-10-21,Low
+376,James Lewis,47,UK,Sports,721.74,PayPal,2023-06-28,High
+413,Olivia Clark,66,Germany,Home & Kitchen,298.86,UPI,2024-06-13,Low
+75,Ava Clark,22,Australia,Electronics,673.38,UPI,2023-05-19,Low
+1121,Elijah Anderson,43,Japan,Sports,117.04,UPI,2023-10-02,Low
+862,Noah Lewis,41,UK,Electronics,800.5,UPI,2024-06-02,High
+501,Liam Rodriguez,39,Japan,Electronics,317.72,Cash on Delivery,2023-07-22,Low
+838,Emma Lewis,39,UK,Toys,912.77,Credit Card,2024-08-28,High
+617,Elijah Lewis,39,France,Grocery,104.59,UPI,2023-09-22,Low
+115,James Hall,56,Australia,Books,386.71,Net Banking,2024-11-11,Low
+418,Sophia Rodriguez,49,Mexico,Sports,622.53,Debit Card,2023-05-29,Low
+602,Liam Walker,20,Japan,Books,100.92,Cash on Delivery,2025-01-20,Low
+605,Ava Allen,47,Brazil,Toys,563.81,Credit Card,2024-12-30,Low
+90,Sophia Allen,69,France,Beauty,353.67,UPI,2024-11-09,Low
+1148,Noah Clark,49,Japan,Grocery,82.05,Net Banking,2023-07-05,Low
+499,Oliver Lewis,33,Japan,Sports,986.62,Net Banking,2024-11-05,High
+875,Liam Allen,38,Australia,Home & Kitchen,429.72,Cash on Delivery,2024-04-05,Low
+882,Oliver Thompson,57,France,Books,46.77,Net Banking,2024-11-12,Low
+880,Elijah Anderson,58,Australia,Home & Kitchen,361.38,Net Banking,2023-11-23,Low
+12,Sophia Allen,48,Japan,Grocery,319.74,UPI,2023-11-20,Low
+397,Elijah Clark,35,India,Home & Kitchen,638.85,Credit Card,2025-02-09,Low
+754,Sophia Walker,55,Mexico,Grocery,933.85,UPI,2024-11-09,High
+556,Noah White,62,Brazil,Home & Kitchen,269.82,Debit Card,2023-04-04,Low
+43,Elijah Clark,58,USA,Beauty,85.48,UPI,2023-12-18,Low
+168,Liam Thompson,45,India,Electronics,674.91,Cash on Delivery,2024-07-15,Low
+417,James Thompson,29,Japan,Toys,398.66,PayPal,2023-05-02,Low
+577,Sophia Allen,69,Australia,Clothing,442.36,UPI,2023-10-08,Low
+268,James Clark,54,Canada,Books,899.26,PayPal,2024-10-29,High
+807,Olivia White,70,Australia,Clothing,620.28,UPI,2025-02-06,Low
+427,Noah Walker,55,Germany,Sports,193.43,Debit Card,2023-07-06,Low
+691,James Rodriguez,63,UK,Books,970.64,PayPal,2023-08-04,High
+545,Elijah Hall,65,Canada,Clothing,505.89,PayPal,2023-08-30,Low
+1122,Noah Anderson,67,USA,Electronics,601.76,UPI,2023-04-25,Low
+675,Liam Anderson,22,USA,Home & Kitchen,501.41,PayPal,2023-03-14,Low
+690,Olivia Lewis,18,India,Toys,210.58,Debit Card,2023-06-01,Low
+1054,Liam Hall,53,USA,Electronics,683.38,Credit Card,2023-10-06,Low
+1176,Ava Anderson,42,Australia,Beauty,663.92,Cash on Delivery,2024-03-16,Low
+981,Isabella Thompson,20,Brazil,Beauty,483.99,Debit Card,2024-08-22,Low
+926,Sophia Thompson,23,Canada,Books,835.36,Net Banking,2024-07-21,High
+258,Elijah Anderson,65,Brazil,Sports,824.34,Debit Card,2025-02-11,High
+336,Oliver Clark,24,India,Sports,664.93,PayPal,2024-01-31,Low
+16,Elijah Harris,55,Australia,Clothing,133.01,Net Banking,2023-12-01,Low
+901,Liam Rodriguez,33,Canada,Grocery,722.89,Cash on Delivery,2023-10-15,High
+325,Elijah Allen,36,India,Grocery,74.93,Net Banking,2025-02-10,Low
+608,Sophia Lewis,47,Germany,Toys,793.08,UPI,2024-06-02,High
+1053,James Lewis,19,Japan,Grocery,955.22,Net Banking,2024-06-27,High
+790,Sophia Hall,57,Mexico,Sports,318.62,PayPal,2023-08-03,Low
+223,Ava Clark,54,USA,Electronics,873.03,UPI,2023-05-18,High
+180,James White,38,India,Sports,842.27,Credit Card,2025-03-05,High
+100,Emma Hall,37,USA,Beauty,155.21,Cash on Delivery,2024-09-23,Low
+522,Liam Rodriguez,25,Brazil,Clothing,73.76,UPI,2023-03-20,Low
+23,Noah Allen,55,UK,Sports,713.29,PayPal,2023-06-30,High
+357,Elijah Lewis,69,Canada,Toys,10.49,Credit Card,2024-05-05,Low
+734,Olivia White,19,Germany,Books,130.62,Credit Card,2024-03-20,Low
+960,Isabella Harris,44,USA,Books,559.07,PayPal,2024-07-11,Low
+1111,Elijah White,39,Brazil,Beauty,750.36,Cash on Delivery,2024-09-07,High
+612,James Anderson,32,France,Sports,122.25,Credit Card,2023-04-12,Low
+1009,Liam Harris,43,India,Home & Kitchen,638.69,PayPal,2024-07-17,Low
+341,Elijah Anderson,41,Mexico,Sports,691.25,Debit Card,2024-03-10,Low
+432,Noah Harris,69,UK,Grocery,589.17,Debit Card,2024-05-22,Low
+782,Emma Anderson,68,Germany,Electronics,188.15,Credit Card,2024-10-10,Low
+218,Ava Clark,40,Canada,Grocery,953.45,UPI,2024-07-29,High
+204,Ava Harris,40,France,Clothing,476.1,Net Banking,2023-08-03,Low
+905,James Walker,64,Brazil,Beauty,804.34,PayPal,2025-03-02,High
+94,James White,22,UK,Sports,265.78,Net Banking,2024-02-15,Low
+797,Olivia Harris,67,Australia,Sports,387.96,Cash on Delivery,2023-04-11,Low
+69,Sophia Anderson,50,Japan,Grocery,24.19,Debit Card,2024-02-15,Low
+894,Noah Lewis,22,France,Home & Kitchen,984.55,Net Banking,2025-02-28,High
+285,Elijah Walker,23,Japan,Books,126.55,UPI,2024-09-16,Low
+697,Isabella Rodriguez,58,Canada,Books,152.42,UPI,2024-12-28,Low
+86,James Lewis,46,Australia,Books,404.44,Cash on Delivery,2024-07-19,Low
+435,Ava Thompson,33,India,Home & Kitchen,894.23,Cash on Delivery,2025-02-03,High
+1064,James White,37,Japan,Toys,569.19,PayPal,2023-10-31,Low
+154,James White,44,Mexico,Grocery,902.69,Credit Card,2024-10-03,High
+76,Ava Hall,56,Mexico,Books,412.67,PayPal,2024-03-20,Low
+1042,Ava Walker,25,Mexico,Toys,435.5,PayPal,2023-09-27,Low
+581,Oliver Thompson,54,Germany,Books,345.52,Debit Card,2024-08-06,Low
+447,James Harris,40,Brazil,Clothing,945.81,UPI,2023-08-15,High
+704,Oliver Allen,28,Japan,Toys,635.08,Cash on Delivery,2024-05-21,Low
+189,Elijah Anderson,50,UK,Electronics,199.23,Net Banking,2023-12-20,Low
+272,Elijah Hall,43,France,Clothing,383.5,UPI,2025-02-18,Low
+237,Liam Hall,36,USA,Clothing,70.95,Cash on Delivery,2023-10-03,Low
+488,Elijah Walker,18,Germany,Books,208.84,UPI,2023-12-13,Low
+1159,Liam Walker,48,USA,Grocery,7.5,PayPal,2024-06-04,Low
+560,Emma Lewis,46,Mexico,Sports,227.33,PayPal,2023-03-15,Low
+118,Sophia Walker,56,India,Clothing,994.23,Credit Card,2024-05-12,High
+638,Oliver Clark,48,Germany,Sports,45.69,Debit Card,2024-06-28,Low
+1076,Olivia Walker,38,Germany,Grocery,110.46,PayPal,2023-05-16,Low
+751,Isabella White,41,USA,Sports,927.18,Net Banking,2024-07-25,High
+513,Ava Lewis,46,Australia,Electronics,848.9,Debit Card,2025-01-30,High
+634,Oliver White,65,Canada,Books,683.54,Credit Card,2024-01-10,Low
+860,Sophia Lewis,60,Germany,Home & Kitchen,84.37,PayPal,2024-05-16,Low
+1006,Olivia Thompson,43,India,Electronics,509.73,UPI,2024-01-02,Low
+1093,Emma Anderson,33,France,Electronics,427.87,UPI,2024-08-22,Low
+127,James White,61,France,Beauty,525.11,Credit Card,2024-04-02,Low
+117,Noah Harris,20,France,Home & Kitchen,371.97,PayPal,2025-02-22,Low
+474,Noah Lewis,20,USA,Books,184.75,UPI,2023-12-14,Low
+741,Sophia Harris,53,Australia,Beauty,533.39,PayPal,2023-10-11,Low
+992,Sophia Lewis,45,Brazil,Beauty,643.54,PayPal,2025-02-13,Low
+58,Isabella Harris,20,Germany,Grocery,870.42,PayPal,2023-10-01,High
+604,Olivia Rodriguez,39,Germany,Sports,591.28,UPI,2024-08-31,Low
+787,Oliver White,50,Mexico,Sports,866.23,Net Banking,2023-03-12,High
+970,Olivia Thompson,27,Canada,Toys,362.94,Net Banking,2023-07-06,Low
+657,Noah Walker,67,Canada,Toys,580.65,Cash on Delivery,2024-04-27,Low
+902,James Thompson,46,Australia,Electronics,949.26,Net Banking,2023-11-06,High
+921,Oliver Thompson,61,Brazil,Clothing,321.74,Debit Card,2023-09-03,Low
+106,Olivia Lewis,59,Mexico,Grocery,324.34,Cash on Delivery,2024-11-08,Low
+636,Liam Clark,52,Australia,Beauty,971.88,UPI,2023-05-03,High
+370,James Anderson,18,France,Books,900.92,UPI,2024-07-20,High
+269,Sophia White,30,Germany,Toys,835.43,Net Banking,2023-03-12,High
+656,Sophia White,58,USA,Toys,81.02,Credit Card,2023-07-14,Low
+47,Noah Clark,19,Brazil,Sports,722.07,Cash on Delivery,2023-06-15,High
+350,Emma Lewis,28,UK,Sports,398.87,PayPal,2024-07-17,Low
+774,Noah Clark,34,Germany,Grocery,701.01,UPI,2024-02-19,High
+196,Isabella White,58,USA,Beauty,112.81,Net Banking,2023-07-15,Low
+103,Liam Hall,18,Germany,Beauty,437.82,UPI,2025-02-23,Low
+5,Ava Harris,48,Germany,Beauty,594.83,Net Banking,2024-10-29,Low
+620,Ava Harris,45,Mexico,Electronics,94.87,Credit Card,2023-11-01,Low
+998,Oliver Anderson,19,France,Sports,947.56,UPI,2023-07-15,High
+53,James Lewis,26,India,Clothing,331.66,UPI,2023-08-11,Low
+264,Ava Allen,32,France,Toys,587.58,Debit Card,2024-01-29,Low
+1092,James Clark,69,Japan,Home & Kitchen,655.48,Net Banking,2024-05-14,Low
+444,Noah Harris,44,UK,Toys,204.49,UPI,2024-01-09,Low
+971,Liam Lewis,42,Germany,Electronics,23.75,Credit Card,2025-01-23,Low
+783,Elijah White,50,Australia,Beauty,145.69,Debit Card,2023-06-21,Low
+846,Olivia Allen,50,Canada,Home & Kitchen,899.13,PayPal,2023-08-13,High
+692,Sophia Clark,49,Australia,Sports,208.17,UPI,2023-03-27,Low
+305,Olivia White,24,USA,Home & Kitchen,381.77,Credit Card,2023-03-14,Low
+342,Sophia Lewis,65,France,Books,682.37,Cash on Delivery,2024-01-07,Low
+866,Oliver Hall,62,Mexico,Grocery,260.15,Cash on Delivery,2023-05-06,Low
+314,Isabella Anderson,52,USA,Beauty,34.21,UPI,2024-09-16,Low
+150,Oliver Thompson,67,Canada,Toys,73.24,PayPal,2023-07-14,Low
+125,Sophia Harris,42,Canada,Toys,96.84,Credit Card,2024-05-15,Low
+1062,Elijah Harris,52,Mexico,Beauty,776.06,PayPal,2024-10-19,High
+575,James Allen,57,Australia,Books,933.54,PayPal,2023-11-13,High
+698,Emma Clark,21,India,Beauty,339.51,Cash on Delivery,2023-10-20,Low
+665,Elijah Clark,33,Germany,Beauty,926.09,Net Banking,2024-09-17,High
+51,James Clark,32,India,Grocery,242.3,Cash on Delivery,2023-06-01,Low
+727,Ava Allen,57,Mexico,Sports,339.04,UPI,2023-11-04,Low
+800,Ava Walker,52,USA,Beauty,466.83,Cash on Delivery,2024-04-19,Low
+354,Olivia Harris,39,Germany,Home & Kitchen,175.35,Net Banking,2023-04-02,Low
+1152,Emma White,65,USA,Grocery,753.35,UPI,2023-09-29,High
+143,Ava Thompson,38,Mexico,Grocery,684.22,Debit Card,2023-07-30,Low
+471,Isabella Lewis,69,Japan,Home & Kitchen,413.78,Cash on Delivery,2025-02-02,Low
+654,Sophia Anderson,46,USA,Sports,116.04,Cash on Delivery,2023-12-08,Low
+400,James Thompson,68,Japan,Books,564.0,UPI,2023-10-12,Low
+987,Liam Allen,49,Australia,Books,304.14,UPI,2023-12-27,Low
+915,Oliver White,19,Mexico,Electronics,859.4,PayPal,2024-12-06,High
+321,Noah Hall,53,Australia,Sports,481.06,Credit Card,2024-10-11,Low
+20,James Thompson,43,India,Toys,849.67,Cash on Delivery,2023-04-07,High
+685,Noah Allen,25,Mexico,Beauty,414.08,Cash on Delivery,2023-06-02,Low
+36,Isabella White,41,Australia,Home & Kitchen,597.62,PayPal,2023-03-24,Low
+825,Noah Rodriguez,43,Canada,Beauty,424.17,Cash on Delivery,2023-05-04,Low
+506,Noah Rodriguez,33,Germany,Electronics,35.84,Net Banking,2024-05-24,Low
+828,Elijah Harris,55,France,Clothing,327.37,Debit Card,2023-10-07,Low
+1070,Noah Thompson,53,Brazil,Books,389.56,UPI,2025-01-29,Low
+408,Oliver Walker,30,Japan,Beauty,381.66,UPI,2023-08-04,Low
+818,Noah Walker,30,Australia,Home & Kitchen,261.94,Net Banking,2024-07-18,Low
+538,Sophia Harris,27,Brazil,Beauty,623.14,Cash on Delivery,2023-03-13,Low
+759,Elijah Thompson,38,France,Sports,635.51,Debit Card,2023-12-27,Low
+1068,Ava Rodriguez,55,Germany,Electronics,400.31,PayPal,2023-10-02,Low
+1081,Liam Rodriguez,66,UK,Toys,317.43,Debit Card,2024-06-29,Low
+39,Elijah Harris,50,India,Sports,452.37,PayPal,2024-12-14,Low
+176,Liam Anderson,21,Brazil,Beauty,806.66,Debit Card,2024-06-30,High
+246,James Hall,58,USA,Toys,177.9,Credit Card,2024-11-26,Low
+811,Olivia Anderson,59,Canada,Books,720.13,Debit Card,2024-09-28,High
+1084,Isabella Walker,65,France,Books,254.3,UPI,2024-12-31,Low
+962,Noah Walker,30,Germany,Beauty,422.07,Debit Card,2025-03-02,Low
+785,Oliver Lewis,38,France,Toys,745.06,UPI,2024-12-23,High
+1184,Ava Thompson,69,UK,Beauty,508.71,Credit Card,2024-01-21,Low
+490,Sophia White,50,UK,Grocery,797.77,Credit Card,2023-04-25,High
+155,Noah Rodriguez,64,UK,Sports,228.66,PayPal,2023-07-13,Low
+639,Isabella Lewis,20,India,Sports,92.66,UPI,2023-06-22,Low
+663,Liam Thompson,37,Germany,Books,132.04,PayPal,2023-08-01,Low
+854,Elijah Thompson,24,USA,Toys,8.22,Cash on Delivery,2023-10-13,Low
+288,Oliver Harris,28,Canada,Beauty,953.86,Credit Card,2023-04-29,High
+626,Ava Anderson,47,Brazil,Books,509.92,Cash on Delivery,2023-06-14,Low
+1126,Sophia Anderson,36,Canada,Clothing,814.58,PayPal,2023-12-09,High
+686,Ava Hall,33,Australia,Grocery,809.49,UPI,2023-09-26,High
+1007,Emma Harris,21,Australia,Beauty,986.39,Debit Card,2024-10-16,High
+570,Emma Harris,32,Germany,Beauty,855.9,Net Banking,2023-12-13,High
+1143,Oliver Harris,45,Germany,Sports,671.15,UPI,2023-07-30,Low
+735,Sophia Harris,42,Australia,Sports,500.52,PayPal,2023-06-07,Low
+793,James Anderson,19,USA,Toys,910.74,Debit Card,2024-06-07,High
+18,Olivia Harris,47,Brazil,Books,336.43,PayPal,2023-05-25,Low
+128,Sophia Lewis,23,France,Electronics,527.62,Cash on Delivery,2023-12-01,Low
+323,Liam Allen,54,Germany,Home & Kitchen,624.01,PayPal,2024-02-10,Low
+256,Noah Anderson,26,UK,Clothing,179.25,Cash on Delivery,2023-09-04,Low
+943,James Harris,19,India,Clothing,337.08,UPI,2023-03-22,Low
+1179,Liam Hall,68,Germany,Home & Kitchen,520.57,UPI,2024-01-10,Low
+191,Sophia Rodriguez,25,India,Beauty,158.64,Net Banking,2025-02-23,Low
+116,Ava Clark,49,USA,Books,18.69,UPI,2024-10-18,Low
+1173,James Clark,39,Japan,Books,129.49,PayPal,2023-11-25,Low
+888,Olivia Rodriguez,32,Canada,Books,660.2,Credit Card,2024-11-27,Low
+607,Ava White,52,UK,Clothing,413.53,Debit Card,2025-02-17,Low
+181,Oliver Anderson,69,Germany,Beauty,178.45,Net Banking,2024-01-29,Low
+302,Olivia White,61,USA,Clothing,291.27,UPI,2023-12-28,Low
+497,Sophia Anderson,19,Canada,Electronics,618.68,Credit Card,2024-11-11,Low
+349,Sophia Hall,70,Australia,Beauty,278.51,Credit Card,2025-02-24,Low
+1035,Isabella Hall,49,Mexico,Toys,789.02,UPI,2024-04-19,High
+1032,Emma Hall,63,India,Sports,514.75,Credit Card,2023-06-28,Low
+745,Sophia Rodriguez,46,Australia,Books,300.68,PayPal,2023-03-21,Low
+1024,Oliver Allen,22,Germany,Home & Kitchen,150.55,Net Banking,2025-02-26,Low
+518,Isabella Rodriguez,48,Australia,Clothing,854.38,UPI,2024-03-24,High
+373,Isabella Walker,38,UK,Electronics,446.52,PayPal,2024-08-05,Low
+46,Liam Hall,42,Brazil,Sports,617.71,Cash on Delivery,2023-03-21,Low
+477,Noah Clark,23,Canada,Electronics,111.36,Credit Card,2023-07-04,Low
+158,Olivia Thompson,29,Mexico,Sports,625.96,Net Banking,2025-02-08,Low
+1046,Elijah White,48,India,Sports,23.56,Cash on Delivery,2023-09-09,Low
+172,Isabella Allen,20,Australia,Electronics,247.06,UPI,2023-12-11,Low
+17,Emma Walker,59,Brazil,Electronics,736.55,UPI,2023-08-04,High
+512,Ava Thompson,35,Brazil,Toys,807.32,Net Banking,2023-11-26,High
+49,Elijah Anderson,20,USA,Sports,189.64,Credit Card,2023-08-03,Low
+192,Olivia Thompson,64,Germany,Grocery,293.55,Net Banking,2023-06-05,Low
+547,Olivia Rodriguez,43,UK,Books,371.2,PayPal,2023-03-26,Low
+516,Isabella Allen,58,Canada,Books,489.79,PayPal,2023-03-31,Low
+977,Emma Harris,44,Japan,Clothing,311.09,Net Banking,2025-02-04,Low
+938,Ava Allen,64,Germany,Books,473.45,Debit Card,2024-08-25,Low
+829,Noah White,65,France,Beauty,453.83,Net Banking,2024-09-24,Low
+983,Oliver Clark,31,UK,Grocery,81.03,UPI,2024-10-23,Low
+481,Olivia Hall,36,Mexico,Beauty,320.28,PayPal,2023-07-08,Low
+1128,James Anderson,33,USA,Sports,960.29,Net Banking,2023-10-19,High
+284,Sophia Walker,51,Brazil,Beauty,213.49,PayPal,2024-05-16,Low
+1090,Elijah Walker,22,Australia,Beauty,108.88,PayPal,2024-06-02,Low
+798,Oliver Anderson,66,France,Clothing,138.34,Cash on Delivery,2023-07-17,Low
+939,Noah Walker,37,Mexico,Home & Kitchen,393.37,UPI,2023-08-30,Low
+226,Elijah Walker,54,France,Grocery,896.92,Debit Card,2024-06-12,High
+27,Sophia Lewis,43,Germany,Beauty,531.22,PayPal,2023-09-08,Low
+283,Sophia White,59,Japan,Home & Kitchen,74.14,UPI,2024-05-27,Low
+1149,Ava Clark,65,Mexico,Clothing,300.41,PayPal,2023-07-30,Low
+438,Emma Lewis,18,Germany,Beauty,765.38,Debit Card,2023-04-29,High
+1167,Olivia Clark,69,France,Grocery,108.72,Cash on Delivery,2023-09-22,Low
+365,Ava Lewis,20,India,Grocery,133.98,Credit Card,2024-12-26,Low
+230,Liam Thompson,23,Canada,Books,460.13,Cash on Delivery,2023-11-28,Low
+38,Isabella Walker,53,France,Beauty,282.92,PayPal,2023-10-05,Low
+670,Ava Lewis,42,USA,Beauty,382.79,Debit Card,2024-11-04,Low
+750,James Thompson,26,India,Beauty,25.26,Credit Card,2023-09-16,Low
+1180,Noah Clark,34,Japan,Grocery,93.69,Debit Card,2024-10-19,Low
+375,Oliver Lewis,38,Japan,Beauty,284.72,Cash on Delivery,2024-03-10,Low
+470,Olivia Harris,32,Australia,Sports,650.75,Debit Card,2025-03-03,Low
+883,Sophia Anderson,53,Australia,Beauty,231.56,PayPal,2023-11-17,Low
+1181,Elijah Thompson,42,Mexico,Grocery,688.32,PayPal,2023-03-26,Low
+688,Oliver Allen,53,Canada,Home & Kitchen,10.25,Credit Card,2024-11-10,Low
+33,Olivia Hall,51,USA,Electronics,790.2,UPI,2023-11-19,High
+1010,Oliver Walker,42,India,Home & Kitchen,557.15,Cash on Delivery,2023-04-17,Low
+1038,Emma Harris,36,Mexico,Home & Kitchen,511.36,UPI,2023-03-15,Low
+195,Sophia Lewis,20,Australia,Electronics,862.91,Net Banking,2024-05-29,High
+1146,Ava Anderson,42,Brazil,Toys,21.87,Debit Card,2024-03-21,Low
+1113,Sophia Walker,55,France,Books,766.16,Credit Card,2023-05-10,High
+951,Liam Rodriguez,46,Australia,Clothing,560.03,Net Banking,2023-06-17,Low
+504,Liam Rodriguez,68,USA,Beauty,782.24,UPI,2023-10-01,High
+916,Noah Lewis,53,Australia,Beauty,383.34,Net Banking,2023-09-17,Low
+1172,Olivia Lewis,40,UK,Beauty,425.79,PayPal,2023-06-24,Low
+1182,Noah Lewis,36,France,Home & Kitchen,715.76,PayPal,2023-07-09,High
+1115,James Walker,51,Australia,Sports,374.36,UPI,2024-01-19,Low
+801,Olivia Harris,43,India,Electronics,230.12,Credit Card,2024-09-24,Low
+580,Olivia White,23,Germany,Grocery,906.77,Credit Card,2025-02-28,High
+161,Sophia Harris,67,Canada,Beauty,321.23,PayPal,2024-08-12,Low
+681,Olivia Lewis,34,Canada,Beauty,904.12,UPI,2023-04-15,High
+1142,Ava Anderson,27,France,Electronics,831.27,PayPal,2024-10-12,High
+163,Noah White,41,India,Beauty,471.26,Debit Card,2023-10-17,Low
+822,Liam Walker,35,India,Electronics,369.24,Debit Card,2024-11-19,Low
+706,Olivia Rodriguez,46,India,Grocery,891.57,Credit Card,2024-01-12,High
+1008,Noah White,53,Canada,Home & Kitchen,142.31,Credit Card,2024-01-22,Low
+878,Ava Harris,69,Germany,Home & Kitchen,295.67,Credit Card,2025-02-22,Low
+896,Elijah Anderson,38,Japan,Clothing,140.03,Debit Card,2024-12-26,Low
+914,Isabella Clark,44,UK,Grocery,124.74,Net Banking,2023-03-14,Low
+1198,Noah Walker,29,Mexico,Electronics,302.91,Debit Card,2025-02-08,Low
+153,Liam Lewis,57,Brazil,Home & Kitchen,513.69,Credit Card,2023-03-10,Low
+978,Noah Thompson,49,Australia,Clothing,683.58,Net Banking,2024-03-26,Low
+1002,Liam Rodriguez,55,Germany,Toys,51.6,Net Banking,2024-08-05,Low
+510,Sophia Hall,31,Canada,Beauty,496.34,Net Banking,2024-04-17,Low
+112,Noah Lewis,26,Brazil,Clothing,324.5,Cash on Delivery,2023-04-05,Low
+227,Noah Anderson,29,Germany,Books,98.72,Debit Card,2025-02-18,Low
+985,Liam Thompson,18,Mexico,Grocery,648.66,PayPal,2024-03-12,Low
+852,Sophia Thompson,20,UK,Books,496.1,Debit Card,2023-03-14,Low
+104,Olivia Allen,44,Australia,Grocery,565.63,PayPal,2024-01-18,Low
+422,Emma Harris,42,UK,Grocery,222.44,PayPal,2024-09-19,Low
+420,Liam Rodriguez,40,UK,Grocery,112.08,PayPal,2023-10-28,Low
+625,Olivia Thompson,53,France,Electronics,853.7,Cash on Delivery,2023-04-22,High
+587,Elijah Hall,44,Japan,Books,572.93,Debit Card,2024-10-08,Low
+1071,Liam Anderson,65,Germany,Sports,519.68,UPI,2024-06-11,Low
+920,Noah Thompson,51,Canada,Electronics,190.85,Debit Card,2023-07-17,Low
+673,Emma Harris,69,Mexico,Books,542.84,PayPal,2024-04-17,Low
+120,Noah Hall,68,Mexico,Toys,33.35,UPI,2024-12-09,Low
+54,Noah White,32,India,Sports,826.63,PayPal,2025-01-23,High
+152,Olivia Rodriguez,41,Canada,Grocery,746.73,Credit Card,2024-01-06,High
+404,Isabella Allen,65,Brazil,Clothing,255.91,Net Banking,2024-07-20,Low
+1188,Elijah Walker,39,USA,Toys,941.89,Net Banking,2024-04-16,High
+208,Isabella Hall,55,USA,Home & Kitchen,243.34,Debit Card,2023-06-12,Low
+1134,Liam Rodriguez,63,USA,Electronics,233.21,UPI,2023-03-20,Low
+659,Noah Hall,58,Australia,Clothing,610.67,Cash on Delivery,2024-12-23,Low
+1196,Elijah Anderson,26,Canada,Home & Kitchen,775.88,Credit Card,2024-07-06,High
+233,Noah Hall,28,USA,Toys,483.59,Credit Card,2023-09-18,Low
+9,Liam Harris,54,France,Beauty,279.43,Cash on Delivery,2023-12-06,Low
+160,Sophia Walker,31,Australia,Electronics,416.04,Net Banking,2023-08-31,Low
+37,Noah Hall,21,France,Toys,474.1,Credit Card,2024-10-06,Low
+453,James Harris,61,India,Clothing,786.93,Net Banking,2024-05-22,High
+652,Liam Anderson,66,India,Toys,719.23,Cash on Delivery,2025-02-17,High
+254,Sophia Walker,46,Brazil,Grocery,739.51,Credit Card,2023-09-21,High
+304,James Hall,65,Japan,Home & Kitchen,730.63,Net Banking,2023-12-23,High
+897,Oliver Clark,32,Japan,Grocery,329.97,Net Banking,2023-10-14,Low
+1048,Ava Allen,19,Mexico,Toys,524.32,Cash on Delivery,2024-06-27,Low
+881,James Allen,30,India,Electronics,879.16,Net Banking,2025-01-10,High
+572,Isabella Hall,24,Canada,Books,410.38,Credit Card,2025-03-06,Low
+624,James Anderson,40,India,Clothing,293.41,Cash on Delivery,2024-06-29,Low
+1199,Sophia Harris,21,USA,Electronics,505.43,Debit Card,2024-05-19,Low
+1030,Isabella Allen,52,Brazil,Beauty,639.58,Debit Card,2024-05-15,Low
+1025,Sophia Clark,23,India,Electronics,812.91,Debit Card,2025-03-05,High
+263,Isabella Anderson,51,USA,Home & Kitchen,567.26,Credit Card,2024-04-28,Low
+611,Oliver Hall,70,Brazil,Grocery,107.77,Cash on Delivery,2023-12-28,Low
+298,Ava Rodriguez,39,UK,Toys,9.02,Debit Card,2024-12-04,Low
+990,Olivia Hall,29,Japan,Sports,605.47,Debit Card,2024-10-02,Low
+415,Liam Hall,55,Canada,Grocery,900.38,Cash on Delivery,2024-03-30,High
+151,Isabella Clark,18,Japan,Grocery,318.46,Credit Card,2024-11-04,Low
+946,Isabella Clark,56,Canada,Home & Kitchen,152.15,Credit Card,2024-07-12,Low
+473,Noah Allen,52,India,Grocery,587.9,Credit Card,2024-01-26,Low
+953,Olivia Walker,64,USA,Sports,767.97,PayPal,2024-11-20,High
+988,Liam Harris,47,Germany,Toys,261.21,Credit Card,2024-01-21,Low
+779,Ava Rodriguez,66,India,Clothing,671.35,UPI,2024-02-22,Low
+641,James Walker,58,USA,Home & Kitchen,725.73,PayPal,2025-01-17,High
+1189,Liam Clark,18,India,Electronics,803.13,Cash on Delivery,2023-05-30,High
+1129,Sophia Walker,30,USA,Home & Kitchen,963.69,Debit Card,2023-08-14,High
+551,James Rodriguez,67,Japan,Clothing,734.2,Net Banking,2023-03-27,High
+640,James Walker,52,Brazil,Toys,34.84,PayPal,2024-03-29,Low
+936,Liam Rodriguez,47,Japan,Books,372.41,Net Banking,2024-05-23,Low
+929,Olivia Walker,39,France,Grocery,579.62,Cash on Delivery,2023-05-04,Low
+489,Liam White,18,France,Clothing,139.28,Debit Card,2024-03-15,Low
+820,Olivia Clark,38,Germany,Electronics,266.97,PayPal,2023-06-10,Low
+711,Sophia Thompson,52,Japan,Beauty,656.27,UPI,2024-11-18,Low
+1080,Oliver Anderson,30,Canada,Sports,184.09,Debit Card,2024-11-30,Low
+148,Sophia Harris,52,Mexico,Electronics,878.12,Net Banking,2023-09-02,High
+147,Emma White,57,Mexico,Electronics,90.98,PayPal,2024-12-11,Low
+1174,Emma Lewis,60,Germany,Toys,971.08,Net Banking,2024-09-10,High
+963,James Lewis,20,Mexico,Toys,11.5,Cash on Delivery,2024-04-05,Low
+346,Noah Thompson,23,Australia,Grocery,880.69,Net Banking,2024-02-02,High
+403,Olivia Thompson,67,France,Beauty,295.35,Debit Card,2023-06-15,Low
+932,Isabella Hall,52,Canada,Books,835.91,Debit Card,2023-06-30,High
+955,Emma Clark,68,France,Beauty,35.73,Debit Card,2024-03-11,Low
+1190,Emma Harris,43,USA,Books,55.63,Debit Card,2024-07-12,Low
+660,Isabella Harris,19,Mexico,Beauty,271.53,PayPal,2024-01-23,Low
+464,Oliver Walker,69,Brazil,Home & Kitchen,303.4,Credit Card,2023-07-11,Low
+187,Noah Clark,56,Canada,Home & Kitchen,417.36,Cash on Delivery,2024-05-04,Low
+609,Elijah Walker,57,Japan,Books,75.58,UPI,2024-02-19,Low
+144,Olivia Hall,56,Mexico,Grocery,356.33,PayPal,2024-04-06,Low
+752,Emma Allen,51,France,Books,823.89,UPI,2024-07-25,High
+982,Isabella Walker,31,Mexico,Toys,416.26,Cash on Delivery,2023-06-10,Low
+198,Ava Clark,32,Australia,Clothing,224.05,Credit Card,2024-06-12,Low
+884,Liam Walker,65,Japan,Beauty,790.24,Net Banking,2023-11-04,High
+280,Oliver Lewis,56,USA,Clothing,195.53,UPI,2023-05-11,Low
+294,James Allen,24,India,Sports,773.78,Net Banking,2023-12-25,High
+1088,Liam White,45,France,Home & Kitchen,970.92,Cash on Delivery,2025-01-22,High
+401,Elijah White,56,Japan,Grocery,936.65,Net Banking,2023-05-26,High
+123,Olivia Hall,38,Canada,Beauty,272.75,Credit Card,2023-11-26,Low
+203,Elijah Harris,54,Australia,Electronics,61.31,PayPal,2024-10-05,Low
+836,Liam Allen,39,Mexico,Home & Kitchen,109.87,PayPal,2024-08-18,Low
+247,Sophia Anderson,43,Canada,Books,742.44,UPI,2024-09-15,High
+1139,Elijah Harris,39,Brazil,Electronics,238.99,PayPal,2025-01-26,Low
+385,Liam Rodriguez,48,France,Books,373.34,PayPal,2023-11-23,Low
+855,Sophia Hall,62,Australia,Toys,651.46,Credit Card,2023-04-12,Low
+220,Liam Rodriguez,68,Mexico,Electronics,815.31,PayPal,2023-08-20,High
+642,Isabella Lewis,59,France,Toys,836.42,Credit Card,2024-04-17,High
+2,Sophia Hall,59,India,Beauty,738.56,PayPal,2023-07-30,High
+113,Ava Rodriguez,28,Canada,Home & Kitchen,692.65,Debit Card,2024-10-06,Low
+699,Noah Rodriguez,56,USA,Electronics,366.69,UPI,2024-06-04,Low
+952,James Lewis,40,India,Grocery,241.0,Credit Card,2024-04-04,Low
+1078,Elijah Allen,27,India,Grocery,700.88,Debit Card,2023-05-29,High
+442,Ava Thompson,60,Japan,Sports,669.44,PayPal,2024-11-01,Low
+664,Olivia Walker,37,France,Home & Kitchen,164.47,UPI,2024-07-21,Low
+1095,Emma Hall,44,Canada,Clothing,775.34,Credit Card,2024-09-26,High
+318,Oliver Clark,21,UK,Beauty,251.56,UPI,2024-03-17,Low
+649,Oliver Thompson,32,Germany,Beauty,169.41,Net Banking,2025-01-08,Low
+710,James Walker,25,India,Books,622.12,Debit Card,2024-03-22,Low
+973,Emma White,69,UK,Sports,698.22,Net Banking,2024-08-13,Low
+628,Sophia Anderson,26,Australia,Clothing,915.25,UPI,2024-10-09,High
+633,Sophia Lewis,40,Japan,Toys,128.21,Net Banking,2024-12-10,Low
+1171,Noah Allen,41,Brazil,Beauty,905.66,UPI,2023-07-21,High
+1106,Oliver White,50,France,Beauty,393.12,Debit Card,2023-09-17,Low
+796,Oliver Clark,48,USA,Beauty,781.6,PayPal,2024-06-06,High
+646,Isabella Lewis,46,Mexico,Clothing,878.41,Credit Card,2023-04-11,High
+1013,Emma Rodriguez,53,Australia,Beauty,926.56,Cash on Delivery,2023-12-17,High
+557,Isabella Lewis,34,USA,Home & Kitchen,575.04,Debit Card,2023-03-09,Low
+682,Emma Allen,29,Germany,Home & Kitchen,167.84,Cash on Delivery,2024-12-17,Low
+578,Noah Walker,42,France,Books,752.86,Debit Card,2024-09-11,High
+525,Emma Thompson,45,Germany,Electronics,512.42,UPI,2023-11-22,Low
+1060,Emma Anderson,40,Mexico,Sports,297.17,PayPal,2023-05-13,Low
+541,Liam Walker,42,UK,Electronics,74.44,PayPal,2023-07-01,Low
+749,Isabella Thompson,54,Australia,Beauty,160.64,UPI,2023-04-05,Low
+1109,Noah Lewis,26,Germany,Books,146.77,PayPal,2024-08-01,Low
+485,Elijah Lewis,33,USA,Toys,476.1,Debit Card,2023-06-28,Low
+96,Elijah Walker,43,Australia,Electronics,682.79,UPI,2023-11-30,Low
+1021,Liam Harris,60,Brazil,Books,891.43,Net Banking,2023-04-28,High
+564,Noah Allen,33,UK,Beauty,828.98,Cash on Delivery,2023-11-16,High
+743,Olivia Allen,38,India,Sports,801.45,Net Banking,2023-09-29,High
+864,Isabella Walker,60,Canada,Toys,261.18,UPI,2024-10-28,Low
+892,Ava Clark,34,UK,Electronics,801.03,UPI,2024-09-13,High
+1039,Liam Allen,28,Brazil,Sports,72.25,Cash on Delivery,2023-12-20,Low
+207,Olivia Rodriguez,57,Japan,Grocery,285.59,PayPal,2023-09-06,Low
+393,Ava Walker,42,Brazil,Beauty,801.62,Cash on Delivery,2023-06-24,High
+795,Olivia Hall,35,Mexico,Sports,103.09,Credit Card,2023-11-22,Low
+871,Oliver Harris,28,Brazil,Home & Kitchen,580.99,Cash on Delivery,2024-06-14,Low
+398,Oliver Anderson,47,France,Grocery,971.87,Cash on Delivery,2023-08-24,High
+767,Sophia Rodriguez,49,Germany,Toys,499.9,PayPal,2024-09-30,Low
+1099,Isabella Allen,41,Brazil,Sports,474.13,Debit Card,2025-02-16,Low
+1029,Emma Walker,38,USA,Clothing,693.74,Debit Card,2024-05-02,Low
+643,Liam Clark,19,Australia,Books,972.0,UPI,2023-06-05,High
+613,Emma Allen,50,Japan,Books,651.33,PayPal,2023-04-19,Low
+961,Liam Lewis,44,France,Home & Kitchen,793.32,UPI,2023-10-18,High
+726,Sophia White,38,France,Toys,152.32,Net Banking,2023-10-12,Low
+684,Olivia Clark,28,India,Grocery,357.79,UPI,2023-12-19,Low
+99,Emma Allen,22,Mexico,Grocery,975.83,Credit Card,2024-03-08,High
+805,Isabella Allen,58,Germany,Clothing,856.46,UPI,2024-01-18,High
+407,James Hall,49,Australia,Books,831.31,Credit Card,2025-01-23,High
+503,Elijah Walker,66,UK,Electronics,691.28,Debit Card,2023-07-29,Low
+1072,James Anderson,58,India,Toys,854.11,Debit Card,2025-03-02,High
+1057,Isabella Allen,43,Japan,Books,916.56,Debit Card,2023-05-26,High
+930,Liam Harris,43,France,Home & Kitchen,700.34,Cash on Delivery,2023-10-06,High
+780,Isabella Rodriguez,49,France,Books,990.28,Cash on Delivery,2023-11-17,High
+201,Elijah Harris,29,Australia,Home & Kitchen,556.38,Cash on Delivery,2024-08-14,Low
+135,Isabella Lewis,68,Brazil,Beauty,316.1,Net Banking,2024-01-09,Low
+1052,Sophia White,47,France,Sports,741.51,UPI,2025-03-04,High
+41,Isabella Clark,55,Brazil,Sports,883.32,UPI,2023-05-30,High
+1018,Noah Walker,54,Brazil,Toys,51.54,Debit Card,2024-03-10,Low
+231,James Allen,70,Brazil,Books,999.78,PayPal,2023-07-30,High
+379,Isabella Anderson,60,India,Sports,287.89,Cash on Delivery,2024-06-10,Low
+289,Liam Thompson,54,India,Sports,200.17,Cash on Delivery,2024-02-19,Low
+419,Sophia Anderson,67,Germany,Toys,163.95,Debit Card,2024-12-17,Low
+392,Ava Allen,39,Mexico,Home & Kitchen,947.64,Credit Card,2024-09-27,High
+593,Liam Thompson,60,UK,Sports,871.46,Credit Card,2024-06-19,High
+1087,Liam Rodriguez,49,India,Beauty,121.59,PayPal,2023-05-30,Low
+648,Liam Lewis,20,India,Grocery,686.68,Net Banking,2023-05-02,Low
+521,Sophia Clark,18,Australia,Beauty,443.05,Cash on Delivery,2023-11-14,Low
+65,Sophia Walker,53,India,Toys,745.56,Net Banking,2023-03-26,High
+15,Ava Thompson,18,France,Clothing,382.41,Debit Card,2024-09-28,Low
+1065,Elijah Hall,42,Australia,Clothing,87.14,Debit Card,2023-05-14,Low
+493,Ava Rodriguez,58,Brazil,Home & Kitchen,780.09,PayPal,2023-03-27,High
+380,Oliver Thompson,51,Canada,Grocery,869.16,Credit Card,2024-06-20,High
+188,Noah Walker,21,France,Books,523.99,UPI,2025-01-11,Low
+764,Liam White,35,Canada,Home & Kitchen,242.38,PayPal,2024-08-08,Low
+217,Oliver Harris,63,UK,Home & Kitchen,10.05,PayPal,2023-12-20,Low
+792,Emma Thompson,70,Australia,Toys,329.04,Credit Card,2023-11-17,Low
+1077,Isabella Harris,34,Australia,Home & Kitchen,825.58,Debit Card,2023-04-02,High
+879,Oliver White,33,France,Clothing,434.77,Net Banking,2024-12-23,Low
+338,Isabella Hall,27,Mexico,Books,618.18,Credit Card,2023-11-22,Low
+720,Ava Allen,38,Canada,Home & Kitchen,477.73,Debit Card,2023-07-20,Low
+296,Sophia Thompson,36,USA,Clothing,161.1,Debit Card,2024-10-15,Low
+1017,James Lewis,54,Japan,Books,699.71,Cash on Delivery,2023-03-19,Low
+456,Liam Hall,22,Japan,Beauty,385.24,Debit Card,2024-11-27,Low
+816,James Hall,62,Mexico,Books,981.68,Credit Card,2024-03-27,High
+270,Ava Clark,22,Australia,Electronics,654.56,Cash on Delivery,2024-10-31,Low
+996,Sophia Allen,52,France,Beauty,43.91,Credit Card,2025-01-04,Low
+202,Oliver Lewis,70,USA,Grocery,772.5,Cash on Delivery,2023-11-30,High
+162,Elijah Harris,58,USA,Home & Kitchen,971.06,UPI,2024-02-15,High
+730,Sophia Allen,18,UK,Clothing,56.51,Cash on Delivery,2023-05-06,Low
+402,James Clark,55,Mexico,Sports,502.16,Net Banking,2023-10-18,Low
+703,James Clark,70,France,Home & Kitchen,84.65,Cash on Delivery,2025-03-05,Low
+1130,Emma Clark,31,Canada,Clothing,220.63,Net Banking,2023-09-26,Low
+566,Sophia Thompson,29,USA,Grocery,716.8,PayPal,2024-01-04,High
+1022,Noah Allen,32,France,Clothing,424.38,PayPal,2023-10-28,Low
+1026,Elijah Walker,21,India,Books,877.42,Net Banking,2023-09-23,High
+1105,Liam Allen,34,Australia,Books,70.72,Cash on Delivery,2024-07-20,Low
+206,Emma Rodriguez,33,Japan,Grocery,362.81,PayPal,2024-05-28,Low
+35,Noah Thompson,63,USA,Grocery,216.99,Net Banking,2023-10-12,Low
+776,Ava Hall,51,Germany,Toys,353.77,Net Banking,2023-09-29,Low
+509,Olivia Rodriguez,29,Japan,Beauty,226.55,Net Banking,2023-04-22,Low
+1183,Oliver Lewis,20,Germany,Toys,172.11,Net Banking,2024-01-28,Low
+92,Liam Thompson,55,USA,Sports,148.28,UPI,2023-03-09,Low
+898,Ava Clark,23,Mexico,Toys,171.41,PayPal,2024-07-02,Low
+565,Ava Anderson,36,Germany,Home & Kitchen,804.97,Credit Card,2023-09-07,High
+777,Liam Thompson,33,UK,Books,345.93,PayPal,2023-05-13,Low
+242,Emma Allen,37,Japan,Electronics,946.54,PayPal,2024-03-08,High
+14,Sophia Anderson,26,France,Toys,871.99,Net Banking,2025-02-05,High
+316,Isabella Allen,41,Canada,Grocery,652.83,PayPal,2023-11-14,Low
+601,James White,63,France,Home & Kitchen,761.51,Credit Card,2024-05-30,High
+388,James Anderson,57,Mexico,Electronics,933.63,Credit Card,2024-11-15,High
+167,Elijah Anderson,44,UK,Toys,189.17,Credit Card,2024-04-26,Low
+841,Noah Clark,47,Australia,Sports,674.63,UPI,2024-05-11,Low
+21,Sophia Harris,57,Brazil,Sports,228.8,Credit Card,2025-02-14,Low
+647,Olivia White,49,Canada,Toys,715.5,Credit Card,2023-04-21,High
+1155,Noah Lewis,26,France,Toys,570.06,Cash on Delivery,2023-07-05,Low
+832,Sophia Allen,63,UK,Clothing,91.58,Debit Card,2023-05-04,Low
+563,Liam Anderson,24,Japan,Electronics,112.21,Net Banking,2023-10-16,Low
+1170,Ava Allen,63,Mexico,Sports,417.87,UPI,2023-06-30,Low
+687,Elijah Anderson,30,Brazil,Electronics,673.77,UPI,2023-04-11,Low
+958,Isabella Anderson,45,Canada,Toys,966.46,Net Banking,2023-04-06,High
+190,James Anderson,60,France,Books,783.75,UPI,2025-01-27,High
+976,Elijah White,31,Japan,Electronics,299.21,Credit Card,2023-10-05,Low
+700,Isabella Anderson,47,Japan,Books,84.72,Net Banking,2024-12-26,Low
+511,Isabella Rodriguez,32,Australia,Grocery,864.24,Net Banking,2023-11-26,High
+1083,Ava Allen,46,UK,Electronics,479.73,Net Banking,2024-07-06,Low
+475,Elijah Clark,37,Canada,Grocery,926.22,PayPal,2024-11-19,High
+857,Oliver Allen,65,Germany,Sports,782.34,Cash on Delivery,2024-06-17,High
+748,Liam Anderson,30,USA,Clothing,436.48,Cash on Delivery,2024-07-02,Low
+253,Elijah Clark,62,Mexico,Beauty,198.2,Cash on Delivery,2024-08-25,Low
+22,Emma Clark,58,USA,Toys,404.6,PayPal,2023-05-30,Low
+460,James Walker,61,USA,Sports,690.65,Credit Card,2024-06-06,Low
+277,Ava Clark,47,Mexico,Beauty,409.0,UPI,2025-01-27,Low
+956,Liam Lewis,67,Japan,Sports,685.42,Net Banking,2024-10-28,Low
+386,Liam Allen,34,India,Clothing,463.37,PayPal,2023-12-08,Low
+806,Olivia Clark,20,Canada,Sports,227.94,Debit Card,2024-10-23,Low
+344,Sophia White,36,USA,Books,820.13,Cash on Delivery,2023-04-23,High
+770,Ava Hall,19,Canada,Clothing,452.12,PayPal,2025-01-30,Low
+131,James Harris,49,France,Clothing,94.49,Credit Card,2023-12-22,Low
+872,Sophia Rodriguez,68,India,Sports,108.07,Cash on Delivery,2024-10-26,Low
+1124,Oliver Rodriguez,34,USA,Home & Kitchen,43.75,PayPal,2024-08-26,Low
+88,James Hall,46,UK,Books,98.81,Debit Card,2023-10-29,Low
+331,Liam Harris,41,Brazil,Books,362.12,Credit Card,2023-12-13,Low
+467,Ava White,27,UK,Toys,976.2,Credit Card,2024-04-30,High
+122,James Lewis,39,France,Books,249.17,PayPal,2024-08-09,Low
+1045,Elijah Lewis,21,France,Beauty,53.33,Cash on Delivery,2023-06-11,Low
+1096,Oliver Rodriguez,61,UK,Beauty,170.34,Credit Card,2023-03-14,Low
+1131,James Hall,40,Germany,Books,729.21,Debit Card,2024-03-15,High
+861,Oliver Hall,65,India,Electronics,327.69,Credit Card,2024-07-28,Low
+1127,James Clark,70,Australia,Beauty,132.32,Net Banking,2024-04-22,Low
