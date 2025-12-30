@@ -1,18 +1,18 @@
-# 🛒 E-Commerce Transaction Value Prediction
+# E-Commerce Transaction Value Prediction
 
 This project uses machine learning algorithms to **classify e-commerce transactions as either high-valued or low-valued**.
 
-## 🧠 Project Overview
+## Project Overview
 The goal is to help e-commerce platforms **predict the potential value of a transaction** using historical data. This can aid in targeted marketing, fraud detection, or resource allocation.
 
-## 🔍 Algorithms Used
+## Algorithms Used
 
 - **Random Forest Classifier**
 - **K-Nearest Neighbors (KNN)**
 
 Both models are trained and compared to determine which performs better on this classification task.
 
-## 📊 Features Considered (Example)
+## Features Considered (Example)
 - Customer demographics (age, gender, location)
 - Product details (category, price, discount)
 - Purchase history
